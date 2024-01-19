@@ -1,0 +1,2402 @@
+fileFormatVersion: 2
+guid: 547d8dbed3983c848a9d33b066a34272
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6897554652180621422
+    second: MarioSpritePowerUps_0
+  - first:
+      213: -7486985944074915895
+    second: MarioSpritePowerUps_1
+  - first:
+      213: -3839185765349407388
+    second: MarioSpritePowerUps_2
+  - first:
+      213: 5432266874736851883
+    second: MarioSpritePowerUps_3
+  - first:
+      213: -3922381447928323841
+    second: MarioSpritePowerUps_4
+  - first:
+      213: 3275761370686851641
+    second: MarioSpritePowerUps_5
+  - first:
+      213: 978956642491963170
+    second: MarioSpritePowerUps_6
+  - first:
+      213: 6853926739704443471
+    second: MarioSpritePowerUps_7
+  - first:
+      213: -3213574896801951789
+    second: MarioSpritePowerUps_8
+  - first:
+      213: 6882946545834965503
+    second: MarioSpritePowerUps_9
+  - first:
+      213: 2610553027418989126
+    second: MarioSpritePowerUps_10
+  - first:
+      213: -64817057262391959
+    second: MarioSpritePowerUps_11
+  - first:
+      213: 5478716305430035894
+    second: MarioSpritePowerUps_12
+  - first:
+      213: 7686562778249127318
+    second: MarioSpritePowerUps_13
+  - first:
+      213: 3378130702441441797
+    second: MarioSpritePowerUps_14
+  - first:
+      213: -6422950230693748554
+    second: MarioSpritePowerUps_15
+  - first:
+      213: 954403484351132435
+    second: MarioSpritePowerUps_16
+  - first:
+      213: 2194657322588819197
+    second: MarioSpritePowerUps_17
+  - first:
+      213: -4307905109587836657
+    second: MarioSpritePowerUps_18
+  - first:
+      213: -6077909818639211260
+    second: MarioSpritePowerUps_19
+  - first:
+      213: -7646702754592404039
+    second: MarioSpritePowerUps_20
+  - first:
+      213: 660131442934060590
+    second: MarioSpritePowerUps_21
+  - first:
+      213: -3760391126904427345
+    second: MarioSpritePowerUps_22
+  - first:
+      213: 1132681706277495469
+    second: MarioSpritePowerUps_23
+  - first:
+      213: 6590928525482815955
+    second: MarioSpritePowerUps_24
+  - first:
+      213: 1224442235575882780
+    second: MarioSpritePowerUps_25
+  - first:
+      213: -8603281899152092471
+    second: MarioSpritePowerUps_26
+  - first:
+      213: 3156319577563209100
+    second: MarioSpritePowerUps_27
+  - first:
+      213: 559895233233853655
+    second: MarioSpritePowerUps_28
+  - first:
+      213: 560403150362231546
+    second: MarioSpritePowerUps_29
+  - first:
+      213: -7999164214334942874
+    second: MarioSpritePowerUps_30
+  - first:
+      213: -1622522127880535282
+    second: MarioSpritePowerUps_31
+  - first:
+      213: -6909089925861658618
+    second: MarioSpritePowerUps_32
+  - first:
+      213: 8642564936423396404
+    second: MarioSpritePowerUps_33
+  - first:
+      213: 851829132301824577
+    second: MarioSpritePowerUps_34
+  - first:
+      213: 1915887115537477599
+    second: MarioSpritePowerUps_35
+  - first:
+      213: -3706744455568903687
+    second: MarioSpritePowerUps_36
+  - first:
+      213: -2841742144221799112
+    second: MarioSpritePowerUps_37
+  - first:
+      213: -2841677829110282282
+    second: MarioSpritePowerUps_38
+  - first:
+      213: -9056004254063726107
+    second: MarioSpritePowerUps_39
+  - first:
+      213: 332177824555717412
+    second: MarioSpritePowerUps_40
+  - first:
+      213: -4185913481974624880
+    second: MarioSpritePowerUps_41
+  - first:
+      213: -7889315412517615504
+    second: MarioSpritePowerUps_42
+  - first:
+      213: -5342041497159699256
+    second: MarioSpritePowerUps_43
+  - first:
+      213: -2159638611929364192
+    second: MarioSpritePowerUps_44
+  - first:
+      213: -1301626984992290495
+    second: MarioSpritePowerUps_45
+  - first:
+      213: 4541262035621737466
+    second: MarioSpritePowerUps_46
+  - first:
+      213: 2544801889108650286
+    second: MarioSpritePowerUps_47
+  - first:
+      213: -5036063298870852765
+    second: MarioSpritePowerUps_48
+  - first:
+      213: -8483956770565853766
+    second: MarioSpritePowerUps_49
+  - first:
+      213: 6319939535175982374
+    second: MarioSpritePowerUps_50
+  - first:
+      213: 4093914921545788672
+    second: MarioSpritePowerUps_51
+  - first:
+      213: -1059866612160203504
+    second: MarioSpritePowerUps_52
+  - first:
+      213: 5961621756185044328
+    second: MarioSpritePowerUps_53
+  - first:
+      213: 7814277059801097692
+    second: MarioSpritePowerUps_54
+  - first:
+      213: -529971379028240451
+    second: MarioSpritePowerUps_55
+  - first:
+      213: -6035217110077826021
+    second: MarioSpritePowerUps_56
+  - first:
+      213: 3146924379790448232
+    second: MarioSpritePowerUps_57
+  - first:
+      213: 5034901125083555102
+    second: MarioSpritePowerUps_58
+  - first:
+      213: 7957767918437041118
+    second: MarioSpritePowerUps_59
+  - first:
+      213: -1289854403996570936
+    second: MarioSpritePowerUps_60
+  - first:
+      213: 8988518484187198623
+    second: MarioSpritePowerUps_61
+  - first:
+      213: 4880580732146890892
+    second: MarioSpritePowerUps_62
+  - first:
+      213: -703588675611337738
+    second: MarioSpritePowerUps_63
+  - first:
+      213: 731011848955332196
+    second: MarioSpritePowerUps_64
+  - first:
+      213: -6787140143937309831
+    second: MarioSpritePowerUps_65
+  - first:
+      213: 5160899962265109787
+    second: MarioSpritePowerUps_66
+  - first:
+      213: -1399432436653698676
+    second: MarioSpritePowerUps_67
+  - first:
+      213: -2254350793126996024
+    second: MarioSpritePowerUps_68
+  - first:
+      213: 4793901086494626379
+    second: MarioSpritePowerUps_69
+  - first:
+      213: -8100129842408631180
+    second: MarioSpritePowerUps_70
+  - first:
+      213: -2056983741683517671
+    second: MarioSpritePowerUps_71
+  - first:
+      213: -4180546739921558247
+    second: MarioSpritePowerUps_72
+  - first:
+      213: -591187603947754158
+    second: MarioSpritePowerUps_73
+  - first:
+      213: 7502812944122363418
+    second: MarioSpritePowerUps_74
+  - first:
+      213: 846005785635373252
+    second: MarioSpritePowerUps_75
+  - first:
+      213: 6020411243934937149
+    second: MarioSpritePowerUps_76
+  - first:
+      213: -1229354709783681220
+    second: MarioSpritePowerUps_77
+  - first:
+      213: 3246732302964488013
+    second: MarioSpritePowerUps_78
+  - first:
+      213: 2852955105817249503
+    second: MarioSpritePowerUps_79
+  - first:
+      213: -3021958291275898862
+    second: MarioSpritePowerUps_80
+  - first:
+      213: -5718487651845312351
+    second: MarioSpritePowerUps_81
+  - first:
+      213: 6392825433425714204
+    second: MarioSpritePowerUps_82
+  - first:
+      213: 6327848797484805599
+    second: MarioSpritePowerUps_83
+  - first:
+      213: 7403755317174939539
+    second: MarioSpritePowerUps_84
+  - first:
+      213: 4367718531955946408
+    second: MarioSpritePowerUps_85
+  - first:
+      213: -2448901715094773905
+    second: MarioSpritePowerUps_86
+  - first:
+      213: -8693559989932950594
+    second: MarioSpritePowerUps_87
+  - first:
+      213: 1726892693830194071
+    second: MarioSpritePowerUps_88
+  - first:
+      213: 2732746192924251248
+    second: MarioSpritePowerUps_89
+  - first:
+      213: 6257114819244474540
+    second: MarioSpritePowerUps_90
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68a11e496909bf50800000000000000
+      internalID: 6897554652180621422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 185
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf621d93f1e81890800000000000000
+      internalID: -7486985944074915895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 185
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465cc9523e878bac0800000000000000
+      internalID: -3839185765349407388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 185
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babbfc1f0f9436b40800000000000000
+      internalID: 5432266874736851883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 186
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff066a2dad6e099c0800000000000000
+      internalID: -3922381447928323841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 186
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a8cb46c97d57d20800000000000000
+      internalID: 3275761370686851641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 186
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2271e3e21e3f59d00800000000000000
+      internalID: 978956642491963170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 186
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4272ac5e0a0e1f50800000000000000
+      internalID: 6853926739704443471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 186
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfc10958a61763d0800000000000000
+      internalID: -3213574896801951789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9be708a63258f50800000000000000
+      internalID: 6882946545834965503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64221aaa52c8a3420800000000000000
+      internalID: 2610553027418989126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d2d76da39b91ff0800000000000000
+      internalID: -64817057262391959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd3c4ac37f480c40800000000000000
+      internalID: 5478716305430035894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69567452f182caa60800000000000000
+      internalID: 7686562778249127318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_14
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aecdbc9f781ee20800000000000000
+      internalID: 3378130702441441797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 168
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b06c71abc81dd6a0800000000000000
+      internalID: -6422950230693748554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 168
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313f42199e8be3d00800000000000000
+      internalID: 954403484351132435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 170
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfecd94053df47e10800000000000000
+      internalID: 2194657322588819197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 149
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f014de8802f3734c0800000000000000
+      internalID: -4307905109587836657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405a62bd83de6aba0800000000000000
+      internalID: -6077909818639211260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdc481db5471e590800000000000000
+      internalID: -7646702754592404039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e269621cc02492900800000000000000
+      internalID: 660131442934060590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faca458813860dbc0800000000000000
+      internalID: -3760391126904427345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2e04ab20818bf00800000000000000
+      internalID: 1132681706277495469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_24
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1746dd29ea77b50800000000000000
+      internalID: 6590928525482815955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c145c73d9b71ef010800000000000000
+      internalID: 1224442235575882780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2dd72e1b00b9880800000000000000
+      internalID: -8603281899152092471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 131
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d1442deef7dcb20800000000000000
+      internalID: 3156319577563209100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc96588fb525c700800000000000000
+      internalID: 559895233233853655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_29
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2c95432b3f6c700800000000000000
+      internalID: 560403150362231546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6619c8847824df090800000000000000
+      internalID: -7999164214334942874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03487f98b4ab79e0800000000000000
+      internalID: -1622522127880535282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60039cf715bfd10a0800000000000000
+      internalID: -6909089925861658618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43453c7f40f80f770800000000000000
+      internalID: 8642564936423396404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_34
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142fd28251e42db00800000000000000
+      internalID: 851829132301824577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfeb574e29969a10800000000000000
+      internalID: 1915887115537477599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 113
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1baac8e8ffe8cc0800000000000000
+      internalID: -3706744455568903687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d1766739a1098d0800000000000000
+      internalID: -2841742144221799112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_38
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 113
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d747cdf1155098d0800000000000000
+      internalID: -2841677829110282282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_39
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 113
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1fa189c1c925280800000000000000
+      internalID: -9056004254063726107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423d7e2b8f12c9400800000000000000
+      internalID: 332177824555717412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_41
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d4266bdd5a8e5c0800000000000000
+      internalID: -4185913481974624880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0788fd38e65838290800000000000000
+      internalID: -7889315412517615504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4766acf814dd5b0800000000000000
+      internalID: -5342041497159699256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0298bbcef1c6702e0800000000000000
+      internalID: -2159638611929364192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149c8794721bfede0800000000000000
+      internalID: -1301626984992290495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_46
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af37331c2cdc50f30800000000000000
+      internalID: 4541262035621737466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_47
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e296010d5d3f05320800000000000000
+      internalID: 2544801889108650286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_48
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363cb64ac1f4c1ab0800000000000000
+      internalID: -5036063298870852765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abde6a0644ee24a80800000000000000
+      internalID: -8483956770565853766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_50
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d9c14d58fe4b750800000000000000
+      internalID: 6319939535175982374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d686f3ee180d830800000000000000
+      internalID: 4093914921545788672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015f4e08ee89a41f0800000000000000
+      internalID: -1059866612160203504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_53
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86566a6b66febb250800000000000000
+      internalID: 5961621756185044328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_54
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 77
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5ade58593e17c60800000000000000
+      internalID: 7814277059801097692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_55
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 78
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7d5e3b6d925a8f0800000000000000
+      internalID: -529971379028240451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_56
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 77
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c937ba30a9e3ca0800000000000000
+      internalID: -6035217110077826021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_57
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 77
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8661d60ec0f1cab20800000000000000
+      internalID: 3146924379790448232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_58
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15e1dfa5ef8fd540800000000000000
+      internalID: 5034901125083555102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_59
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3807f72cbaf6e60800000000000000
+      internalID: 7957767918437041118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_60
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caafc5e044891ee0800000000000000
+      internalID: -1289854403996570936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_61
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94b20b20f1adbc70800000000000000
+      internalID: 8988518484187198623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_62
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 78
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c883b35415e4bb340800000000000000
+      internalID: 4880580732146890892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_63
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 59
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbd23ac3d95c36f0800000000000000
+      internalID: -703588675611337738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_64
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466859f4763152a00800000000000000
+      internalID: 731011848955332196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_65
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973b2d7bffb3fc1a0800000000000000
+      internalID: -6787140143937309831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_66
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 59
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15832c0c233f9740800000000000000
+      internalID: 5160899962265109787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_67
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81d8160d97349ce0800000000000000
+      internalID: -1399432436653698676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_68
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 58
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c79b80d5efe6b0e0800000000000000
+      internalID: -2254350793126996024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_69
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b421fd493ab578240800000000000000
+      internalID: 4793901086494626379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47451bc13de869f80800000000000000
+      internalID: -8100129842408631180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_71
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 59
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91733307f202473e0800000000000000
+      internalID: -2056983741683517671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_72
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 41
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915ee08b3e6bbf5c0800000000000000
+      internalID: -4180546739921558247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_73
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d6417a10eabc7f0800000000000000
+      internalID: -591187603947754158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_74
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ebd9efe985f1860800000000000000
+      internalID: 7502812944122363418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0c8ba97cd9dbb00800000000000000
+      internalID: 846005785635373252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_76
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30728cf02ccc8350800000000000000
+      internalID: 6020411243934937149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_77
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37e364a76470fee0800000000000000
+      internalID: -1229354709783681220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_78
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 44
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47fbfed3d5be0d20800000000000000
+      internalID: 3246732302964488013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_79
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6cf5a9d8bb79720800000000000000
+      internalID: 2852955105817249503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_80
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 23
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2102472f1f8df06d0800000000000000
+      internalID: -3021958291275898862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_81
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 23
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a07d4b47c9d3a0b0800000000000000
+      internalID: -5718487651845312351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_82
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 23
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c1c6e6cd0e7b850800000000000000
+      internalID: 6392825433425714204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 25
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdde67674f801d750800000000000000
+      internalID: 6327848797484805599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_84
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 27
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f2f14fb3c6fb660800000000000000
+      internalID: 7403755317174939539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_85
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3ff181dd04d9c30800000000000000
+      internalID: 4367718531955946408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_86
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 6
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f5eed6dd0c30ed0800000000000000
+      internalID: -2448901715094773905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_87
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 6
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb7f76ef354a5780800000000000000
+      internalID: -8693559989932950594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_88
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 6
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79357fc61c727f710800000000000000
+      internalID: 1726892693830194071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_89
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0741d8a0f2aace520800000000000000
+      internalID: 2732746192924251248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpritePowerUps_90
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca046e7c6ccb5d650800000000000000
+      internalID: 6257114819244474540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MarioSpritePowerUps_0: 6897554652180621422
+      MarioSpritePowerUps_1: -7486985944074915895
+      MarioSpritePowerUps_10: 2610553027418989126
+      MarioSpritePowerUps_11: -64817057262391959
+      MarioSpritePowerUps_12: 5478716305430035894
+      MarioSpritePowerUps_13: 7686562778249127318
+      MarioSpritePowerUps_14: 3378130702441441797
+      MarioSpritePowerUps_15: -6422950230693748554
+      MarioSpritePowerUps_16: 954403484351132435
+      MarioSpritePowerUps_17: 2194657322588819197
+      MarioSpritePowerUps_18: -4307905109587836657
+      MarioSpritePowerUps_19: -6077909818639211260
+      MarioSpritePowerUps_2: -3839185765349407388
+      MarioSpritePowerUps_20: -7646702754592404039
+      MarioSpritePowerUps_21: 660131442934060590
+      MarioSpritePowerUps_22: -3760391126904427345
+      MarioSpritePowerUps_23: 1132681706277495469
+      MarioSpritePowerUps_24: 6590928525482815955
+      MarioSpritePowerUps_25: 1224442235575882780
+      MarioSpritePowerUps_26: -8603281899152092471
+      MarioSpritePowerUps_27: 3156319577563209100
+      MarioSpritePowerUps_28: 559895233233853655
+      MarioSpritePowerUps_29: 560403150362231546
+      MarioSpritePowerUps_3: 5432266874736851883
+      MarioSpritePowerUps_30: -7999164214334942874
+      MarioSpritePowerUps_31: -1622522127880535282
+      MarioSpritePowerUps_32: -6909089925861658618
+      MarioSpritePowerUps_33: 8642564936423396404
+      MarioSpritePowerUps_34: 851829132301824577
+      MarioSpritePowerUps_35: 1915887115537477599
+      MarioSpritePowerUps_36: -3706744455568903687
+      MarioSpritePowerUps_37: -2841742144221799112
+      MarioSpritePowerUps_38: -2841677829110282282
+      MarioSpritePowerUps_39: -9056004254063726107
+      MarioSpritePowerUps_4: -3922381447928323841
+      MarioSpritePowerUps_40: 332177824555717412
+      MarioSpritePowerUps_41: -4185913481974624880
+      MarioSpritePowerUps_42: -7889315412517615504
+      MarioSpritePowerUps_43: -5342041497159699256
+      MarioSpritePowerUps_44: -2159638611929364192
+      MarioSpritePowerUps_45: -1301626984992290495
+      MarioSpritePowerUps_46: 4541262035621737466
+      MarioSpritePowerUps_47: 2544801889108650286
+      MarioSpritePowerUps_48: -5036063298870852765
+      MarioSpritePowerUps_49: -8483956770565853766
+      MarioSpritePowerUps_5: 3275761370686851641
+      MarioSpritePowerUps_50: 6319939535175982374
+      MarioSpritePowerUps_51: 4093914921545788672
+      MarioSpritePowerUps_52: -1059866612160203504
+      MarioSpritePowerUps_53: 5961621756185044328
+      MarioSpritePowerUps_54: 7814277059801097692
+      MarioSpritePowerUps_55: -529971379028240451
+      MarioSpritePowerUps_56: -6035217110077826021
+      MarioSpritePowerUps_57: 3146924379790448232
+      MarioSpritePowerUps_58: 5034901125083555102
+      MarioSpritePowerUps_59: 7957767918437041118
+      MarioSpritePowerUps_6: 978956642491963170
+      MarioSpritePowerUps_60: -1289854403996570936
+      MarioSpritePowerUps_61: 8988518484187198623
+      MarioSpritePowerUps_62: 4880580732146890892
+      MarioSpritePowerUps_63: -703588675611337738
+      MarioSpritePowerUps_64: 731011848955332196
+      MarioSpritePowerUps_65: -6787140143937309831
+      MarioSpritePowerUps_66: 5160899962265109787
+      MarioSpritePowerUps_67: -1399432436653698676
+      MarioSpritePowerUps_68: -2254350793126996024
+      MarioSpritePowerUps_69: 4793901086494626379
+      MarioSpritePowerUps_7: 6853926739704443471
+      MarioSpritePowerUps_70: -8100129842408631180
+      MarioSpritePowerUps_71: -2056983741683517671
+      MarioSpritePowerUps_72: -4180546739921558247
+      MarioSpritePowerUps_73: -591187603947754158
+      MarioSpritePowerUps_74: 7502812944122363418
+      MarioSpritePowerUps_75: 846005785635373252
+      MarioSpritePowerUps_76: 6020411243934937149
+      MarioSpritePowerUps_77: -1229354709783681220
+      MarioSpritePowerUps_78: 3246732302964488013
+      MarioSpritePowerUps_79: 2852955105817249503
+      MarioSpritePowerUps_8: -3213574896801951789
+      MarioSpritePowerUps_80: -3021958291275898862
+      MarioSpritePowerUps_81: -5718487651845312351
+      MarioSpritePowerUps_82: 6392825433425714204
+      MarioSpritePowerUps_83: 6327848797484805599
+      MarioSpritePowerUps_84: 7403755317174939539
+      MarioSpritePowerUps_85: 4367718531955946408
+      MarioSpritePowerUps_86: -2448901715094773905
+      MarioSpritePowerUps_87: -8693559989932950594
+      MarioSpritePowerUps_88: 1726892693830194071
+      MarioSpritePowerUps_89: 2732746192924251248
+      MarioSpritePowerUps_9: 6882946545834965503
+      MarioSpritePowerUps_90: 6257114819244474540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

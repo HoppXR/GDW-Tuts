@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: 1dac63a4a3efa1d41bcabc02fa1d9aba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2131789762314796732
+    second: GameSelectMenu2_13
+  - first:
+      213: -2853249515079360140
+    second: GameSelectMenu2_20
+  - first:
+      213: -2112222782657205148
+    second: GameSelectMenu2_22
+  - first:
+      213: -976744021465158940
+    second: GameSelectMenu2_23
+  - first:
+      213: -8385741460353535605
+    second: GameSelectMenu2_24
+  - first:
+      213: -653262248116189143
+    second: GameSelectMenu2_25
+  - first:
+      213: 7513502698677877832
+    second: GameSelectMenu2_26
+  - first:
+      213: 3694118613581316964
+    second: GameSelectMenu2_27
+  - first:
+      213: 2313967290804037088
+    second: GameSelectMenu2_28
+  - first:
+      213: 6443623662430104815
+    second: GameSelectMenu2_29
+  - first:
+      213: -2615340850850730377
+    second: GameSelectMenu2_30
+  - first:
+      213: 1283470803537696487
+    second: GameSelectMenu2_31
+  - first:
+      213: -1459114194422521889
+    second: GameSelectMenu2_32
+  - first:
+      213: -7536199010132066228
+    second: GameSelectMenu2_33
+  - first:
+      213: 2618069593214313584
+    second: GameSelectMenu2_34
+  - first:
+      213: -6981064517731548432
+    second: GameSelectMenu2_35
+  - first:
+      213: 2463265042191120400
+    second: GameSelectMenu2_36
+  - first:
+      213: 5966615528533791257
+    second: GameSelectMenu2_37
+  - first:
+      213: 935545100621807213
+    second: GameSelectMenu2_38
+  - first:
+      213: 2967936818412732676
+    second: GameSelectMenu2_39
+  - first:
+      213: -310205880214852759
+    second: GameSelectMenu2_40
+  - first:
+      213: -7193380974643409166
+    second: GameSelectMenu2_41
+  - first:
+      213: -264976402450473023
+    second: GameSelectMenu2_42
+  - first:
+      213: -845369058012178521
+    second: GameSelectMenu2_43
+  - first:
+      213: -687530495609036684
+    second: GameSelectMenu2_44
+  - first:
+      213: -2180183450201775211
+    second: GameSelectMenu2_45
+  - first:
+      213: -3351419898347368451
+    second: GameSelectMenu2_46
+  - first:
+      213: 5554246266883389479
+    second: GameSelectMenu2_47
+  - first:
+      213: 2809506919984244146
+    second: GameSelectMenu2_48
+  - first:
+      213: 5200914755331979251
+    second: GameSelectMenu2_49
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameSelectMenu2_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 236
+        width: 122
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe769e7e73a59d10800000000000000
+      internalID: 2131789762314796732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 236
+        width: 122
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471a326eea83768d0800000000000000
+      internalID: -2853249515079360140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 173
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cea39f190efa2e0800000000000000
+      internalID: -2112222782657205148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 173
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea251ccc78e172f0800000000000000
+      internalID: -976744021465158940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 173
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81bc55429cdf9b80800000000000000
+      internalID: -8385741460353535605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 177
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9288cdb42752fe6f0800000000000000
+      internalID: -653262248116189143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 173
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c32ad65e2554860800000000000000
+      internalID: 7513502698677877832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_27
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 173
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4634ca88e45244330800000000000000
+      internalID: 3694118613581316964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 173
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e56f36bdfcdc1020800000000000000
+      internalID: 2313967290804037088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_29
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 173
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feca279c4995c6950800000000000000
+      internalID: 6443623662430104815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_30
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 173
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e69725a5174bbd0800000000000000
+      internalID: -2615340850850730377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 173
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6137c45edcfc110800000000000000
+      internalID: 1283470803537696487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_32
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 173
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf17b2fe5f20cbe0800000000000000
+      internalID: -1459114194422521889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_33
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 173
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c408d64cdea0a6790800000000000000
+      internalID: -7536199010132066228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_34
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 173
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0746ac48c60455420800000000000000
+      internalID: 2618069593214313584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 173
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f20782fec64e1f90800000000000000
+      internalID: -6981064517731548432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 99
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018707341864f2220800000000000000
+      internalID: 2463265042191120400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 99
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9121691f53dadc250800000000000000
+      internalID: 5966615528533791257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 99
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7be1ff49bbfc00800000000000000
+      internalID: 935545100621807213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_39
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 103
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4014b41cfca303920800000000000000
+      internalID: 2967936818412732676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_40
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 99
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b6e8e356de1bbf0800000000000000
+      internalID: -310205880214852759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_41
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 99
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe8350ad1afb2c90800000000000000
+      internalID: -7193380974643409166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_42
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 99
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf141aad5d925cf0800000000000000
+      internalID: -264976402450473023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_43
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 99
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7d3191255a444f0800000000000000
+      internalID: -845369058012178521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 99
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470a9fc28a66576f0800000000000000
+      internalID: -687530495609036684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_45
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 99
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593a98104be6eb1e0800000000000000
+      internalID: -2180183450201775211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_46
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 99
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff44d9eb5d5d71d0800000000000000
+      internalID: -3351419898347368451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 99
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728bf945d85a41d40800000000000000
+      internalID: 5554246266883389479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_48
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 99
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5a9a788af5df620800000000000000
+      internalID: 2809506919984244146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameSelectMenu2_49
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 108
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f776a21a6c5d2840800000000000000
+      internalID: 5200914755331979251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GameSelectMenu2_13: 2131789762314796732
+      GameSelectMenu2_20: -2853249515079360140
+      GameSelectMenu2_22: -2112222782657205148
+      GameSelectMenu2_23: -976744021465158940
+      GameSelectMenu2_24: -8385741460353535605
+      GameSelectMenu2_25: -653262248116189143
+      GameSelectMenu2_26: 7513502698677877832
+      GameSelectMenu2_27: 3694118613581316964
+      GameSelectMenu2_28: 2313967290804037088
+      GameSelectMenu2_29: 6443623662430104815
+      GameSelectMenu2_30: -2615340850850730377
+      GameSelectMenu2_31: 1283470803537696487
+      GameSelectMenu2_32: -1459114194422521889
+      GameSelectMenu2_33: -7536199010132066228
+      GameSelectMenu2_34: 2618069593214313584
+      GameSelectMenu2_35: -6981064517731548432
+      GameSelectMenu2_36: 2463265042191120400
+      GameSelectMenu2_37: 5966615528533791257
+      GameSelectMenu2_38: 935545100621807213
+      GameSelectMenu2_39: 2967936818412732676
+      GameSelectMenu2_40: -310205880214852759
+      GameSelectMenu2_41: -7193380974643409166
+      GameSelectMenu2_42: -264976402450473023
+      GameSelectMenu2_43: -845369058012178521
+      GameSelectMenu2_44: -687530495609036684
+      GameSelectMenu2_45: -2180183450201775211
+      GameSelectMenu2_46: -3351419898347368451
+      GameSelectMenu2_47: 5554246266883389479
+      GameSelectMenu2_48: 2809506919984244146
+      GameSelectMenu2_49: 5200914755331979251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

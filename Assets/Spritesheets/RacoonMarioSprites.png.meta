@@ -1,0 +1,1552 @@
+fileFormatVersion: 2
+guid: 4d65c242dc339d845a35448ae2e72be0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 800265775704937501
+    second: RacoonMarioSprites_0
+  - first:
+      213: -3092738387240973008
+    second: RacoonMarioSprites_1
+  - first:
+      213: -635193565496376628
+    second: RacoonMarioSprites_2
+  - first:
+      213: 53578163219026506
+    second: RacoonMarioSprites_3
+  - first:
+      213: -2798885757496907556
+    second: RacoonMarioSprites_4
+  - first:
+      213: -4877551487261183013
+    second: RacoonMarioSprites_5
+  - first:
+      213: 4771810902626926258
+    second: RacoonMarioSprites_6
+  - first:
+      213: -2325189749177477508
+    second: RacoonMarioSprites_7
+  - first:
+      213: 3188554624788330284
+    second: RacoonMarioSprites_8
+  - first:
+      213: -7111248000357409651
+    second: RacoonMarioSprites_9
+  - first:
+      213: -7195106631744206779
+    second: RacoonMarioSprites_10
+  - first:
+      213: 7865336302031927163
+    second: RacoonMarioSprites_11
+  - first:
+      213: -3101172145651338516
+    second: RacoonMarioSprites_12
+  - first:
+      213: 3378361693275981268
+    second: RacoonMarioSprites_13
+  - first:
+      213: -6396527631388764098
+    second: RacoonMarioSprites_14
+  - first:
+      213: 4051610961737714166
+    second: RacoonMarioSprites_15
+  - first:
+      213: -3013921411585783631
+    second: RacoonMarioSprites_16
+  - first:
+      213: 3655974799449783339
+    second: RacoonMarioSprites_17
+  - first:
+      213: -7841462060785201729
+    second: RacoonMarioSprites_18
+  - first:
+      213: -9166087611951109679
+    second: RacoonMarioSprites_19
+  - first:
+      213: 3984463872219439382
+    second: RacoonMarioSprites_20
+  - first:
+      213: -4419615258873436900
+    second: RacoonMarioSprites_21
+  - first:
+      213: -2010449319203957458
+    second: RacoonMarioSprites_22
+  - first:
+      213: -2558684684727864206
+    second: RacoonMarioSprites_23
+  - first:
+      213: 4251111068800046946
+    second: RacoonMarioSprites_24
+  - first:
+      213: -9158004529208152048
+    second: RacoonMarioSprites_25
+  - first:
+      213: 3699324275790750694
+    second: RacoonMarioSprites_26
+  - first:
+      213: -3024178244720751525
+    second: RacoonMarioSprites_27
+  - first:
+      213: -7442418566608640116
+    second: RacoonMarioSprites_28
+  - first:
+      213: 5192129961834048986
+    second: RacoonMarioSprites_29
+  - first:
+      213: -7507895591502078949
+    second: RacoonMarioSprites_30
+  - first:
+      213: 4570328298283769577
+    second: RacoonMarioSprites_31
+  - first:
+      213: -3563636604335002961
+    second: RacoonMarioSprites_32
+  - first:
+      213: 8352206577624714504
+    second: RacoonMarioSprites_33
+  - first:
+      213: 3614017622665230124
+    second: RacoonMarioSprites_34
+  - first:
+      213: -2488668101419137634
+    second: RacoonMarioSprites_35
+  - first:
+      213: 7828531998325664124
+    second: RacoonMarioSprites_36
+  - first:
+      213: 5767278737910824449
+    second: RacoonMarioSprites_37
+  - first:
+      213: 1725414997174194276
+    second: RacoonMarioSprites_38
+  - first:
+      213: -5882008067931262300
+    second: RacoonMarioSprites_39
+  - first:
+      213: -6593068836088322946
+    second: RacoonMarioSprites_40
+  - first:
+      213: 7309225264246518938
+    second: RacoonMarioSprites_41
+  - first:
+      213: 4956046303742047034
+    second: RacoonMarioSprites_42
+  - first:
+      213: -6586366064823243758
+    second: RacoonMarioSprites_43
+  - first:
+      213: -7740385045296032616
+    second: RacoonMarioSprites_44
+  - first:
+      213: -2877761044938367097
+    second: RacoonMarioSprites_45
+  - first:
+      213: 8475497143163595398
+    second: RacoonMarioSprites_46
+  - first:
+      213: -4026698136195352834
+    second: RacoonMarioSprites_47
+  - first:
+      213: -1413241190419991101
+    second: RacoonMarioSprites_48
+  - first:
+      213: -5896202306690902637
+    second: RacoonMarioSprites_49
+  - first:
+      213: -4823621084261978305
+    second: RacoonMarioSprites_50
+  - first:
+      213: 6725572566846976082
+    second: RacoonMarioSprites_51
+  - first:
+      213: 3491797335327126167
+    second: RacoonMarioSprites_52
+  - first:
+      213: 7183671855055404705
+    second: RacoonMarioSprites_53
+  - first:
+      213: 890211344657711422
+    second: RacoonMarioSprites_54
+  - first:
+      213: 1185898368793042743
+    second: RacoonMarioSprites_55
+  - first:
+      213: -4902149938746745986
+    second: RacoonMarioSprites_56
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RacoonMarioSprites_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 100
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d149bc6ab7d1b1b00800000000000000
+      internalID: 800265775704937501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 99
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d8945a2d26415d0800000000000000
+      internalID: -3092738387240973008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 99
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc289fc41d65f27f0800000000000000
+      internalID: -635193565496376628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 99
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42536a3e095eb000800000000000000
+      internalID: 53578163219026506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 99
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd82f719b3c5829d0800000000000000
+      internalID: -2798885757496907556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 100
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd37e14c3c47f4cb0800000000000000
+      internalID: -4877551487261183013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 99
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bef96adbb0e83240800000000000000
+      internalID: 4771810902626926258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 99
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7695e41e344bbfd0800000000000000
+      internalID: -2325189749177477508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 100
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27ff6d9985004c20800000000000000
+      internalID: 3188554624788330284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 99
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c5df4ee95cf4d90800000000000000
+      internalID: -7111248000357409651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_10
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 99
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54844d5c3a8d52c90800000000000000
+      internalID: -7195106631744206779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 99
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77f891c1b9472d60800000000000000
+      internalID: 7865336302031927163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 69
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2bd1f3d5c66f4d0800000000000000
+      internalID: -3101172145651338516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 68
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5808a8f0a52ee20800000000000000
+      internalID: 3378361693275981268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 68
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e381a1f6208fa37a0800000000000000
+      internalID: -6396527631388764098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_15
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 68
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9847e04b63a3830800000000000000
+      internalID: 4051610961737714166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 68
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b84c71d1766c26d0800000000000000
+      internalID: -3013921411585783631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 69
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cfbfcb5b1acb230800000000000000
+      internalID: 3655974799449783339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 68
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd02333dc78d2390800000000000000
+      internalID: -7841462060785201729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 69
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9ab8581e38bc080800000000000000
+      internalID: -9166087611951109679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_20
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 68
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611640cf7c8ab4730800000000000000
+      internalID: 3984463872219439382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 69
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15e3f2965f5aa2c0800000000000000
+      internalID: -4419615258873436900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 68
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e251ce9fef27914e0800000000000000
+      internalID: -2010449319203957458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 38
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2743092f5d9bd7cd0800000000000000
+      internalID: -2558684684727864206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 41
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267de846efafefa30800000000000000
+      internalID: 4251111068800046946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 42
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0103121e66b38e080800000000000000
+      internalID: -9158004529208152048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 42
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ac7734d3a65330800000000000000
+      internalID: 3699324275790750694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 42
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c84f1c8e5f706d0800000000000000
+      internalID: -3024178244720751525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 37
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87258bceb737b890800000000000000
+      internalID: -7442418566608640116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 37
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adde7c2f0b62e0840800000000000000
+      internalID: 5192129961834048986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 37
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c1cc1fcb89ec790800000000000000
+      internalID: -7507895591502078949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_31
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 37
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee9e166f511d6f30800000000000000
+      internalID: 4570328298283769577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 37
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa680aa36b6b8ec0800000000000000
+      internalID: -3563636604335002961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_33
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 37
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d800661aff8e370800000000000000
+      internalID: 8352206577624714504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_34
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 37
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2776f241e1972230800000000000000
+      internalID: 3614017622665230124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 37
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95011b1c89767dd0800000000000000
+      internalID: -2488668101419137634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79eaf8006884ac60800000000000000
+      internalID: 7828531998325664124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 7
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e76dda47d790050800000000000000
+      internalID: 5767278737910824449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_38
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 7
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46013bc5cc7e1f710800000000000000
+      internalID: 1725414997174194276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2b9f093d8ee5ea0800000000000000
+      internalID: -5882008067931262300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_40
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 7
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74e14d33d6b084a0800000000000000
+      internalID: -6593068836088322946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 6
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9479b2e6a59f6560800000000000000
+      internalID: 7309225264246518938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_42
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 6
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33bee0ead967c440800000000000000
+      internalID: 4956046303742047034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_43
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 6
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ce589c5f68894a0800000000000000
+      internalID: -6586366064823243758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_44
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 6
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8945266cfc0a49490800000000000000
+      internalID: -7740385045296032616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_45
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 6
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fddff93932018d0800000000000000
+      internalID: -2877761044938367097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_46
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aaa112fb30f9570800000000000000
+      internalID: 8475497143163595398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_47
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef63956216b4e18c0800000000000000
+      internalID: -4026698136195352834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_48
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5f01fff98236ce0800000000000000
+      internalID: -1413241190419991101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_49
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39599d1dd3b7c2ea0800000000000000
+      internalID: -5896202306690902637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 6
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fea753e2e0f0db0800000000000000
+      internalID: -4823621084261978305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 6
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250b60ead98065d50800000000000000
+      internalID: 6725572566846976082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_52
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 6
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79234d71d2b557030800000000000000
+      internalID: 3491797335327126167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_53
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae7c8fcd7781b360800000000000000
+      internalID: 7183671855055404705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_54
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 7
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31885d508aaa5c00800000000000000
+      internalID: 890211344657711422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_55
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 6
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fdf938848257010800000000000000
+      internalID: 1185898368793042743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RacoonMarioSprites_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b1c497a9018fbb0800000000000000
+      internalID: -4902149938746745986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RacoonMarioSprites_0: 800265775704937501
+      RacoonMarioSprites_1: -3092738387240973008
+      RacoonMarioSprites_10: -7195106631744206779
+      RacoonMarioSprites_11: 7865336302031927163
+      RacoonMarioSprites_12: -3101172145651338516
+      RacoonMarioSprites_13: 3378361693275981268
+      RacoonMarioSprites_14: -6396527631388764098
+      RacoonMarioSprites_15: 4051610961737714166
+      RacoonMarioSprites_16: -3013921411585783631
+      RacoonMarioSprites_17: 3655974799449783339
+      RacoonMarioSprites_18: -7841462060785201729
+      RacoonMarioSprites_19: -9166087611951109679
+      RacoonMarioSprites_2: -635193565496376628
+      RacoonMarioSprites_20: 3984463872219439382
+      RacoonMarioSprites_21: -4419615258873436900
+      RacoonMarioSprites_22: -2010449319203957458
+      RacoonMarioSprites_23: -2558684684727864206
+      RacoonMarioSprites_24: 4251111068800046946
+      RacoonMarioSprites_25: -9158004529208152048
+      RacoonMarioSprites_26: 3699324275790750694
+      RacoonMarioSprites_27: -3024178244720751525
+      RacoonMarioSprites_28: -7442418566608640116
+      RacoonMarioSprites_29: 5192129961834048986
+      RacoonMarioSprites_3: 53578163219026506
+      RacoonMarioSprites_30: -7507895591502078949
+      RacoonMarioSprites_31: 4570328298283769577
+      RacoonMarioSprites_32: -3563636604335002961
+      RacoonMarioSprites_33: 8352206577624714504
+      RacoonMarioSprites_34: 3614017622665230124
+      RacoonMarioSprites_35: -2488668101419137634
+      RacoonMarioSprites_36: 7828531998325664124
+      RacoonMarioSprites_37: 5767278737910824449
+      RacoonMarioSprites_38: 1725414997174194276
+      RacoonMarioSprites_39: -5882008067931262300
+      RacoonMarioSprites_4: -2798885757496907556
+      RacoonMarioSprites_40: -6593068836088322946
+      RacoonMarioSprites_41: 7309225264246518938
+      RacoonMarioSprites_42: 4956046303742047034
+      RacoonMarioSprites_43: -6586366064823243758
+      RacoonMarioSprites_44: -7740385045296032616
+      RacoonMarioSprites_45: -2877761044938367097
+      RacoonMarioSprites_46: 8475497143163595398
+      RacoonMarioSprites_47: -4026698136195352834
+      RacoonMarioSprites_48: -1413241190419991101
+      RacoonMarioSprites_49: -5896202306690902637
+      RacoonMarioSprites_5: -4877551487261183013
+      RacoonMarioSprites_50: -4823621084261978305
+      RacoonMarioSprites_51: 6725572566846976082
+      RacoonMarioSprites_52: 3491797335327126167
+      RacoonMarioSprites_53: 7183671855055404705
+      RacoonMarioSprites_54: 890211344657711422
+      RacoonMarioSprites_55: 1185898368793042743
+      RacoonMarioSprites_56: -4902149938746745986
+      RacoonMarioSprites_6: 4771810902626926258
+      RacoonMarioSprites_7: -2325189749177477508
+      RacoonMarioSprites_8: 3188554624788330284
+      RacoonMarioSprites_9: -7111248000357409651
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

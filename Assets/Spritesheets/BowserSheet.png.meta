@@ -1,0 +1,1252 @@
+fileFormatVersion: 2
+guid: 15956cb9f049b81479ce409f32bb5bf8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4123949847382080821
+    second: BowserFireL
+  - first:
+      213: -7670938881414127592
+    second: BowserFireL1
+  - first:
+      213: 726770911764029379
+    second: BowserFireL2
+  - first:
+      213: 4073575309650870106
+    second: BowserFireL3
+  - first:
+      213: -4473588091326690244
+    second: BowserFireL4
+  - first:
+      213: 3196743698965496999
+    second: BowserFireL6
+  - first:
+      213: -2005630294329140404
+    second: BowserFireR6
+  - first:
+      213: 429341048240484856
+    second: BowserFireR4
+  - first:
+      213: -2545414040358385484
+    second: BowserFireR3
+  - first:
+      213: 7451179133995931143
+    second: BowserFireR2
+  - first:
+      213: -8340794586419187766
+    second: BowserFireR1
+  - first:
+      213: 7751728581568919682
+    second: FireballDR1
+  - first:
+      213: -7687537277165880944
+    second: FireballDR2
+  - first:
+      213: -3549948795416038529
+    second: FireballDR3
+  - first:
+      213: -5190529413989508988
+    second: FireballDL1
+  - first:
+      213: -2777017389780608446
+    second: FireballDL2
+  - first:
+      213: 1763635052586810044
+    second: FireballDL3
+  - first:
+      213: -4165749734206928022
+    second: BowserFireR5
+  - first:
+      213: 5244671455508304893
+    second: FireballL1
+  - first:
+      213: -3346406691551389277
+    second: FireballL2
+  - first:
+      213: -881050868845698991
+    second: FireballL3
+  - first:
+      213: 4526464526905615557
+    second: FireballL4
+  - first:
+      213: -2811090918647355979
+    second: FireballL5
+  - first:
+      213: 3557447058374697070
+    second: FireballR6
+  - first:
+      213: -200835047355873194
+    second: FireballL6
+  - first:
+      213: 7781763680858989644
+    second: BowserDropL1
+  - first:
+      213: 9214105563525858559
+    second: BowserDropL2
+  - first:
+      213: 3986196921549366
+    second: BowserDropL3
+  - first:
+      213: -809936690861529438
+    second: BowserDropL4
+  - first:
+      213: 9171230459691019361
+    second: BowserDropL6
+  - first:
+      213: 3434573797731095788
+    second: FireballR1
+  - first:
+      213: 1862292845765129741
+    second: FireballR2
+  - first:
+      213: -4461473250049434958
+    second: FireballR3
+  - first:
+      213: -4293851462033980291
+    second: FireballR4
+  - first:
+      213: -183340955354492919
+    second: FireballR5
+  - first:
+      213: 8848964573515744406
+    second: BowserDropL5
+  - first:
+      213: 6313836916747707260
+    second: Block
+  - first:
+      213: 8091025612767721241
+    second: Door
+  - first:
+      213: 934457154389583126
+    second: BowserDropR6
+  - first:
+      213: 19825137775671781
+    second: BowserDropR5
+  - first:
+      213: 5865795716775921893
+    second: BowserDropR4
+  - first:
+      213: 5903253172378090845
+    second: BowserDropR3
+  - first:
+      213: 7711700486032838658
+    second: BowserDropR2
+  - first:
+      213: -5452579371226141475
+    second: BowserDropR1
+  - first:
+      213: 2133836724972881016
+    second: BlockBreakParticle
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BowserFireL
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 150
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2c343a679c4c6c0800000000000000
+      internalID: -4123949847382080821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserFireL1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 150
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810249fcab95b8590800000000000000
+      internalID: -7670938881414127592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserFireL2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 150
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf18cc2b42061a00800000000000000
+      internalID: 726770911764029379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserFireL3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 150
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fba81592f388830800000000000000
+      internalID: 4073575309650870106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserFireL4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 150
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c0e01455f9ae1c0800000000000000
+      internalID: -4473588091326690244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserFireL6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 150
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a48ec6057d1d5c20800000000000000
+      internalID: 3196743698965496999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserFireR6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 104
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bdfb3afd19a24e0800000000000000
+      internalID: -2005630294329140404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserFireR4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 104
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f13edb986355f500800000000000000
+      internalID: 429341048240484856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserFireR3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 104
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8852e9a6fdcacd0800000000000000
+      internalID: -2545414040358385484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserFireR2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 104
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70651afb1f7e76760800000000000000
+      internalID: 7451179133995931143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserFireR1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 104
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfabfbd38b8f3c80800000000000000
+      internalID: -8340794586419187766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballDR1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 143
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28878a3131ca39b60800000000000000
+      internalID: 7751728581568919682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballDR2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09934f4a391605590800000000000000
+      internalID: -7687537277165880944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballDR3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 143
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73b666016c0cbec0800000000000000
+      internalID: -3549948795416038529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballDL1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 143
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48850f2aff887f7b0800000000000000
+      internalID: -5190529413989508988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballDL2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a5b03b56d0679d0800000000000000
+      internalID: -2777017389780608446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballDL3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 143
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba3dd67cb0b97810800000000000000
+      internalID: 1763635052586810044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserFireR5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 104
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b0b6510b84036c0800000000000000
+      internalID: -4165749734206928022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballL1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 119
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3143db6e0d8c840800000000000000
+      internalID: 5244671455508304893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballL2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 119
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9d61418dc2f81d0800000000000000
+      internalID: -3346406691551389277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballL3
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 119
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150276d17e0e5c3f0800000000000000
+      internalID: -881050868845698991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballL4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 119
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4ad96418b31de30800000000000000
+      internalID: 4526464526905615557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballL5
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 119
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5a2ba04bffcf8d0800000000000000
+      internalID: -2811090918647355979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballR6
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 93
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60aead50479e5130800000000000000
+      internalID: 3557447058374697070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballL6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 119
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65887e7a69d763df0800000000000000
+      internalID: -200835047355873194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserDropL1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44e2a396d06efb60800000000000000
+      internalID: 7781763680858989644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserDropL2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 56
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4c8ec01341fdf70800000000000000
+      internalID: 9214105563525858559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserDropL3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 56
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632838bcc692e0000800000000000000
+      internalID: 3986196921549366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserDropL4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 56
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6a4a2fed682c4f0800000000000000
+      internalID: -809936690861529438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserDropL6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c20270381c64f70800000000000000
+      internalID: 9171230459691019361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballR1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 93
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce450a00cae0aaf20800000000000000
+      internalID: 3434573797731095788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballR2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 93
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06f493f97138d910800000000000000
+      internalID: 1862292845765129741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballR3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 93
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba55eb87b9a512c0800000000000000
+      internalID: -4461473250049434958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballR4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 93
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d744c2758dc2964c0800000000000000
+      internalID: -4293851462033980291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireballR5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 93
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900905b5f54a47df0800000000000000
+      internalID: -183340955354492919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserDropL5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 56
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6940c625566ddca70800000000000000
+      internalID: 8848964573515744406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Block
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 44
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73ae7049314f9750800000000000000
+      internalID: 6313836916747707260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 44
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9177b9d3de8194070800000000000000
+      internalID: 8091025612767721241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserDropR6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615a639b4dbd7fc00800000000000000
+      internalID: 934457154389583126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserDropR5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 9
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9fdb69bde664000800000000000000
+      internalID: 19825137775671781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserDropR4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 9
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8cf67402e776150800000000000000
+      internalID: 5865795716775921893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserDropR3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 9
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d3bc6cb719ce150800000000000000
+      internalID: 5903253172378090845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserDropR2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 9
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200d134dbb6750b60800000000000000
+      internalID: 7711700486032838658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BowserDropR1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 9
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc617c63fb8454b0800000000000000
+      internalID: -5452579371226141475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockBreakParticle
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87401b02239ec9d10800000000000000
+      internalID: 2133836724972881016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Block: 6313836916747707260
+      BlockBreakParticle: 2133836724972881016
+      BowserDropL1: 7781763680858989644
+      BowserDropL2: 9214105563525858559
+      BowserDropL3: 3986196921549366
+      BowserDropL4: -809936690861529438
+      BowserDropL5: 8848964573515744406
+      BowserDropL6: 9171230459691019361
+      BowserDropR1: -5452579371226141475
+      BowserDropR2: 7711700486032838658
+      BowserDropR3: 5903253172378090845
+      BowserDropR4: 5865795716775921893
+      BowserDropR5: 19825137775671781
+      BowserDropR6: 934457154389583126
+      BowserFireL: -4123949847382080821
+      BowserFireL1: -7670938881414127592
+      BowserFireL2: 726770911764029379
+      BowserFireL3: 4073575309650870106
+      BowserFireL4: -4473588091326690244
+      BowserFireL6: 3196743698965496999
+      BowserFireR1: -8340794586419187766
+      BowserFireR2: 7451179133995931143
+      BowserFireR3: -2545414040358385484
+      BowserFireR4: 429341048240484856
+      BowserFireR5: -4165749734206928022
+      BowserFireR6: -2005630294329140404
+      Door: 8091025612767721241
+      FireballDL1: -5190529413989508988
+      FireballDL2: -2777017389780608446
+      FireballDL3: 1763635052586810044
+      FireballDR1: 7751728581568919682
+      FireballDR2: -7687537277165880944
+      FireballDR3: -3549948795416038529
+      FireballL1: 5244671455508304893
+      FireballL2: -3346406691551389277
+      FireballL3: -881050868845698991
+      FireballL4: 4526464526905615557
+      FireballL5: -2811090918647355979
+      FireballL6: -200835047355873194
+      FireballR1: 3434573797731095788
+      FireballR2: 1862292845765129741
+      FireballR3: -4461473250049434958
+      FireballR4: -4293851462033980291
+      FireballR5: -183340955354492919
+      FireballR6: 3557447058374697070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

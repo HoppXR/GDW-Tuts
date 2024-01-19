@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: ba04cc072e20b8940874cf9aed93e104
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7426434747126500962
+    second: FrogMarioHop3
+  - first:
+      213: 1452054671059815934
+    second: FrogMarioHop2
+  - first:
+      213: -6319372997876454162
+    second: FrogMarioHop
+  - first:
+      213: 1715532971087434218
+    second: FrogMarioWalk2
+  - first:
+      213: -7457246148922220741
+    second: FrogMarioWalk1
+  - first:
+      213: -2143854629950111887
+    second: FrogMarioIdle
+  - first:
+      213: 6908352985947264583
+    second: FrogMarioCrouch
+  - first:
+      213: -9152661651011147341
+    second: FrogMarioGrab1
+  - first:
+      213: 2929381316510481560
+    second: FrogMarioGrab2
+  - first:
+      213: 6199803729224880608
+    second: FrogMarioStandForward
+  - first:
+      213: 9091523103890209213
+    second: FrogMarioStandBack
+  - first:
+      213: -4068805880833993435
+    second: FrogMarioKick2
+  - first:
+      213: 8909133159056834927
+    second: FrogMarioKick1
+  - first:
+      213: 5717269622326972596
+    second: FrogMarioSwi
+  - first:
+      213: 2362235874655789082
+    second: FrogMarioSwim=
+  - first:
+      213: -8760141652808461803
+    second: FrogMarioSwim1
+  - first:
+      213: -6094689312324892460
+    second: FrogMarioSw
+  - first:
+      213: 7341312814394196366
+    second: FrogMarioS
+  - first:
+      213: -3301332971887160482
+    second: FrogMarioSwimDown3
+  - first:
+      213: -5069099249423719225
+    second: FrogMarioSwimDown2
+  - first:
+      213: 7330071514564188818
+    second: FrogMarioSwimDown
+  - first:
+      213: -8268522281197485720
+    second: FrogMarioSwimUp3
+  - first:
+      213: 7394603439651533293
+    second: FrogMarioSwimUp2
+  - first:
+      213: -6057232984007578193
+    second: FrogMarioSwimUp1
+  - first:
+      213: 8589909724451865586
+    second: FrogMarioSprites_24
+  - first:
+      213: -467256062515429021
+    second: FrogMarioSwim3
+  - first:
+      213: -2502799516294727132
+    second: FrogMarioSwim2
+  - first:
+      213: -5977900295232697706
+    second: FrogMarioSwim
+  - first:
+      213: -1337922222172322509
+    second: FrogMarioSwim4
+  - first:
+      213: -7690458895596261232
+    second: FrogMarioSwim5
+  - first:
+      213: -146877378449480639
+    second: FrogMarioSprites_30
+  - first:
+      213: 1060153077995322602
+    second: FrogMarioSprites_31
+  - first:
+      213: 8204156782781481846
+    second: FrogMarioSprites_32
+  - first:
+      213: -2169812858067421551
+    second: FrogMarioSprites_33
+  - first:
+      213: 1886175720364494836
+    second: FrogMarioWin1
+  - first:
+      213: -5701061038562298629
+    second: FrogMarioWin2
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrogMarioHop3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 59
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5955461, y: 0.44366086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9138e5c1f000f890800000000000000
+      internalID: -7426434747126500962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioHop2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 59
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5907688, y: 0.4624405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd87fea70cb62410800000000000000
+      internalID: 1452054671059815934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioHop
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 59
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6270763, y: 0.4092315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eece06a6db31d48a0800000000000000
+      internalID: -6319372997876454162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioWalk2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 58
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.585413, y: 0.44837216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1132ed52ccec710800000000000000
+      internalID: 1715532971087434218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioWalk1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 58
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6032552, y: 0.45591563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f57d2432a828890800000000000000
+      internalID: -7457246148922220741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioIdle
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 58
+        width: 15
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5911072, y: 0.46473226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f3fbb929f7f32e0800000000000000
+      internalID: -2143854629950111887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioCrouch
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 58
+        width: 22
+        height: 31
+      alignment: 9
+      pivot: {x: 0.49585864, y: 0.14732534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746556e40766fdf50800000000000000
+      internalID: 6908352985947264583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioGrab1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 58
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5227766, y: 0.41268826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9e326a8b63bf080800000000000000
+      internalID: -9152661651011147341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioGrab2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 58
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5170822, y: 0.41618073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cf54e69c047a820800000000000000
+      internalID: 2929381316510481560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioStandForward
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 58
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.4943056, y: 0.42652598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1579dc4a02a0650800000000000000
+      internalID: 6199803729224880608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioStandBack
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 58
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5341644, y: 0.44415972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9f1a218149b2e70800000000000000
+      internalID: 9091523103890209213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioKick2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 58
+        width: 21
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6084609, y: 0.44122067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5259edcdb92b887c0800000000000000
+      internalID: -4068805880833993435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioKick1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 58
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5170822, y: 0.43534285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f618c32d76993ab70800000000000000
+      internalID: 8909133159056834927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSwi
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 30
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.6851203, y: 0.34669146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b05eeb1e62d75f40800000000000000
+      internalID: 5717269622326972596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSwim=
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 30
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 0.6442497, y: 0.33902606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10ea88230958c020800000000000000
+      internalID: 2362235874655789082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSwim1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 30
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.61753684, y: 0.37735316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5129f3a7499bd6680800000000000000
+      internalID: -8760141652808461803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSw
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 30
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.61753684, y: 0.3620224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8418a8c505b6ba0800000000000000
+      internalID: -6094689312324892460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioS
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 30
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.6028449, y: 0.34669146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e814df6db1591e560800000000000000
+      internalID: 7341312814394196366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSwimDown3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 29
+        width: 16
+        height: 26
+      alignment: 9
+      pivot: {x: 0.53305817, y: 0.6084956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53916d372f4f22d0800000000000000
+      internalID: -3301332971887160482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSwimDown2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 29
+        width: 16
+        height: 26
+      alignment: 9
+      pivot: {x: 0.50000095, y: 0.5474669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c466e20711f6a9b0800000000000000
+      internalID: -5069099249423719225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSwimDown
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 29
+        width: 16
+        height: 26
+      alignment: 9
+      pivot: {x: 0.50000095, y: 0.54068595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29adec3c435a9b560800000000000000
+      internalID: 7330071514564188818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSwimUp3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 29
+        width: 16
+        height: 27
+      alignment: 9
+      pivot: {x: 0.50000095, y: 0.34981453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86142d33bce404d80800000000000000
+      internalID: -8268522281197485720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSwimUp2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 29
+        width: 16
+        height: 27
+      alignment: 9
+      pivot: {x: 0.50000095, y: 0.44776168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1bf4b66a8ee9660800000000000000
+      internalID: 7394603439651533293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSwimUp1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 29
+        width: 16
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5000019, y: 0.46735114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fade27291b260fba0800000000000000
+      internalID: -6057232984007578193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSprites_24
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 29
+        width: 16
+        height: 27
+      alignment: 9
+      pivot: {x: 0.50000095, y: 0.46735114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f380a2126d753770800000000000000
+      internalID: 8589909724451865586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSwim3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.6498593, y: 0.3926839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361ce963619f389f0800000000000000
+      internalID: -467256062515429021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSwim2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 0.63623583, y: 0.3466913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42abb3fa915444dd0800000000000000
+      internalID: -2502799516294727132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSwim
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.53673047, y: 0.377353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ac3ff8a5b3a0da0800000000000000
+      internalID: -5977900295232697706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSwim4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5514224, y: 0.3926839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335415ad3debe6de0800000000000000
+      internalID: -1337922222172322509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSwim5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 24
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5440766, y: 0.3926839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090fd385160064590800000000000000
+      internalID: -7690458895596261232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSprites_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0.22672805, y: 0.3530791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1446aff6dcf26fdf0800000000000000
+      internalID: -146877378449480639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSprites_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0.29725036, y: 0.5073461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecb2758b9b66be00800000000000000
+      internalID: 1060153077995322602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSprites_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.35307947, y: 0.6469209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6734d4f50250bd170800000000000000
+      internalID: 8204156782781481846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioSprites_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3
+        width: 20
+        height: 24
+      alignment: 9
+      pivot: {x: 0.69393617, y: 0.5734605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196f0d5a3b643e1e0800000000000000
+      internalID: -2169812858067421551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioWin1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2
+        width: 16
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5110197, y: 0.2930332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffca4403da0d2a10800000000000000
+      internalID: 1886175720364494836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrogMarioWin2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.54407656, y: 0.30069867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4bca1e033c1e0b0800000000000000
+      internalID: -5701061038562298629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FrogMarioCrouch: 6908352985947264583
+      FrogMarioGrab1: -9152661651011147341
+      FrogMarioGrab2: 2929381316510481560
+      FrogMarioHop: -6319372997876454162
+      FrogMarioHop2: 1452054671059815934
+      FrogMarioHop3: -7426434747126500962
+      FrogMarioIdle: -2143854629950111887
+      FrogMarioKick1: 8909133159056834927
+      FrogMarioKick2: -4068805880833993435
+      FrogMarioS: 7341312814394196366
+      FrogMarioSprites_24: 8589909724451865586
+      FrogMarioSprites_30: -146877378449480639
+      FrogMarioSprites_31: 1060153077995322602
+      FrogMarioSprites_32: 8204156782781481846
+      FrogMarioSprites_33: -2169812858067421551
+      FrogMarioStandBack: 9091523103890209213
+      FrogMarioStandForward: 6199803729224880608
+      FrogMarioSw: -6094689312324892460
+      FrogMarioSwi: 5717269622326972596
+      FrogMarioSwim: -5977900295232697706
+      FrogMarioSwim1: -8760141652808461803
+      FrogMarioSwim2: -2502799516294727132
+      FrogMarioSwim3: -467256062515429021
+      FrogMarioSwim4: -1337922222172322509
+      FrogMarioSwim5: -7690458895596261232
+      FrogMarioSwim=: 2362235874655789082
+      FrogMarioSwimDown: 7330071514564188818
+      FrogMarioSwimDown2: -5069099249423719225
+      FrogMarioSwimDown3: -3301332971887160482
+      FrogMarioSwimUp1: -6057232984007578193
+      FrogMarioSwimUp2: 7394603439651533293
+      FrogMarioSwimUp3: -8268522281197485720
+      FrogMarioWalk1: -7457246148922220741
+      FrogMarioWalk2: 1715532971087434218
+      FrogMarioWin1: 1886175720364494836
+      FrogMarioWin2: -5701061038562298629
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

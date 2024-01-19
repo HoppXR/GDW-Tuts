@@ -1,0 +1,977 @@
+fileFormatVersion: 2
+guid: 1e2523957afdafa47a0cad22ce6657fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2343627185772165935
+    second: Idle
+  - first:
+      213: 5776195563678588895
+    second: Walk 2
+  - first:
+      213: 1383945029054894063
+    second: Walk 3
+  - first:
+      213: -6738260416512250005
+    second: Walk 4
+  - first:
+      213: 8803830243853622192
+    second: Jump
+  - first:
+      213: 6264610148586154080
+    second: Walk 5
+  - first:
+      213: 5428938534669495486
+    second: SmolMarioSprites_6
+  - first:
+      213: 2493852564708227756
+    second: SmolMarioSprites_7
+  - first:
+      213: -4813540365458114877
+    second: SmolMarioSprites_8
+  - first:
+      213: -6568289275935132816
+    second: SmolMarioSprites_9
+  - first:
+      213: 7222057462724492779
+    second: SmolMarioSprites_10
+  - first:
+      213: -6410918616141972216
+    second: SmolMarioSprites_11
+  - first:
+      213: 7090728950374993426
+    second: Die
+  - first:
+      213: -6978602421978973289
+    second: Turn
+  - first:
+      213: -7116742199274628594
+    second: SmolMarioSprites_14
+  - first:
+      213: 1195144511055830269
+    second: SmolMarioSprites_15
+  - first:
+      213: 1970620948565455206
+    second: SmolMarioSprites_16
+  - first:
+      213: 1791130596226264992
+    second: SmolMarioSprites_17
+  - first:
+      213: 3580881077862749547
+    second: SmolMarioSprites_18
+  - first:
+      213: -187241654399059654
+    second: SmolMarioSprites_19
+  - first:
+      213: 339169283709293872
+    second: SmolMarioSprites_20
+  - first:
+      213: 2013751427319877133
+    second: SmolMarioSprites_21
+  - first:
+      213: -8010210024967440214
+    second: SmolMarioSprites_22
+  - first:
+      213: 7251247706073494106
+    second: SmolMarioSprites_23
+  - first:
+      213: -2372878368457033139
+    second: SmolMarioSprites_24
+  - first:
+      213: 5253589314664915329
+    second: SmolMarioSprites_25
+  - first:
+      213: 6428274739452676803
+    second: SmolMarioSprites_26
+  - first:
+      213: 2081923551403866631
+    second: SmolMarioSprites_27
+  - first:
+      213: 6297788106173308677
+    second: SmolMarioSprites_28
+  - first:
+      213: -9155687102765051795
+    second: SmolMarioSprites_29
+  - first:
+      213: 343431236558461076
+    second: CrouchWalk 1
+  - first:
+      213: -7706824006297575439
+    second: CrouchWalk 2
+  - first:
+      213: -374947347427983907
+    second: Crouch
+  - first:
+      213: 9087999700547341370
+    second: SmolMarioSprites_33
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 57
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bf5e5228c368020800000000000000
+      internalID: 2343627185772165935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk 2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfdf36f24b292050800000000000000
+      internalID: 5776195563678588895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk 3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 57
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef0c75eba2c43310800000000000000
+      internalID: 1383945029054894063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk 4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f26bd1ad3ec72a0800000000000000
+      internalID: -6738260416512250005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb5cbb46fc7d2a70800000000000000
+      internalID: 8803830243853622192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk 5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 57
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068e8c22dbd50f650800000000000000
+      internalID: 6264610148586154080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 57
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebca76265d6775b40800000000000000
+      internalID: 5428938534669495486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa71a1d1b1fb9220800000000000000
+      internalID: 2493852564708227756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 57
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c67dd47a8ed23db0800000000000000
+      internalID: -4813540365458114877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 39
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073f0ed24bfb8d4a0800000000000000
+      internalID: -6568289275935132816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 39
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedf62d8ff6e93460800000000000000
+      internalID: 7222057462724492779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 39
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d3be03c77d707a0800000000000000
+      internalID: -6410918616141972216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Die
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e0ead7964576260800000000000000
+      internalID: 7090728950374993426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Turn
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 39
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b33494216072f90800000000000000
+      internalID: -6978602421978973289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 39
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a14360da04c3d90800000000000000
+      internalID: -7116742199274628594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 39
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc9db4c991069010800000000000000
+      internalID: 1195144511055830269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 39
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661ff2adf4d095b10800000000000000
+      internalID: 1970620948565455206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_17
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 39
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af666699cf5bd810800000000000000
+      internalID: 1791130596226264992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 21
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b655de43e58d1b130800000000000000
+      internalID: 3580881077862749547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 21
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39336615b8c66df0800000000000000
+      internalID: -187241654399059654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 22
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0355732aaa8f4b400800000000000000
+      internalID: 339169283709293872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 22
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e465bf04842fb10800000000000000
+      internalID: 2013751427319877133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8fa851c6406d090800000000000000
+      internalID: -8010210024967440214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 21
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5270e2be5b91a460800000000000000
+      internalID: 7251247706073494106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 21
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4af8e822b7d11fd0800000000000000
+      internalID: -2372878368457033139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181e360a5af78e840800000000000000
+      internalID: 5253589314664915329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca81bb21d1d53950800000000000000
+      internalID: 6428274739452676803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_27
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a72f2807a74ec10800000000000000
+      internalID: 2081923551403866631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_28
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fd32b5aec366750800000000000000
+      internalID: 6297788106173308677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d605015c61770f080800000000000000
+      internalID: -9155687102765051795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchWalk 1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49817dbd3ec14c400800000000000000
+      internalID: 343431236558461076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrouchWalk 2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff1e26166cdb0590800000000000000
+      internalID: -7706824006297575439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crouch
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd7413cf5bebcaf0800000000000000
+      internalID: -374947347427983907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmolMarioSprites_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c0bfdc39f0f1e70800000000000000
+      internalID: 9087999700547341370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Crouch: -374947347427983907
+      CrouchWalk 1: 343431236558461076
+      CrouchWalk 2: -7706824006297575439
+      Die: 7090728950374993426
+      Idle: 2343627185772165935
+      Jump: 8803830243853622192
+      SmolMarioSprites_10: 7222057462724492779
+      SmolMarioSprites_11: -6410918616141972216
+      SmolMarioSprites_14: -7116742199274628594
+      SmolMarioSprites_15: 1195144511055830269
+      SmolMarioSprites_16: 1970620948565455206
+      SmolMarioSprites_17: 1791130596226264992
+      SmolMarioSprites_18: 3580881077862749547
+      SmolMarioSprites_19: -187241654399059654
+      SmolMarioSprites_20: 339169283709293872
+      SmolMarioSprites_21: 2013751427319877133
+      SmolMarioSprites_22: -8010210024967440214
+      SmolMarioSprites_23: 7251247706073494106
+      SmolMarioSprites_24: -2372878368457033139
+      SmolMarioSprites_25: 5253589314664915329
+      SmolMarioSprites_26: 6428274739452676803
+      SmolMarioSprites_27: 2081923551403866631
+      SmolMarioSprites_28: 6297788106173308677
+      SmolMarioSprites_29: -9155687102765051795
+      SmolMarioSprites_33: 9087999700547341370
+      SmolMarioSprites_6: 5428938534669495486
+      SmolMarioSprites_7: 2493852564708227756
+      SmolMarioSprites_8: -4813540365458114877
+      SmolMarioSprites_9: -6568289275935132816
+      Turn: -6978602421978973289
+      Walk 2: 5776195563678588895
+      Walk 3: 1383945029054894063
+      Walk 4: -6738260416512250005
+      Walk 5: 6264610148586154080
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

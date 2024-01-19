@@ -1,0 +1,1302 @@
+fileFormatVersion: 2
+guid: bb1692c0fffe1c3439c932fc69ff8eef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3524882436449148348
+    second: World1Back
+  - first:
+      213: 2075309676143724026
+    second: World2Back1
+  - first:
+      213: 8407795551486690683
+    second: World3Back1
+  - first:
+      213: -8220618299020647582
+    second: World4Back1
+  - first:
+      213: 1046569122510751658
+    second: World5Back4
+  - first:
+      213: -5686920418879157843
+    second: World6Back1
+  - first:
+      213: 1892239742455351415
+    second: World3Back2
+  - first:
+      213: -1706767302815511245
+    second: World1Back2
+  - first:
+      213: -4686360027891278370
+    second: World2Back2
+  - first:
+      213: 5377127987495206800
+    second: World3Back3
+  - first:
+      213: -6282145897130811170
+    second: World3Back4
+  - first:
+      213: 5913042059408576056
+    second: World5Back1
+  - first:
+      213: -4789625811572065809
+    second: World1Back3
+  - first:
+      213: 7117632279065182151
+    second: World3Back5
+  - first:
+      213: -7460878760259207611
+    second: World6Back2
+  - first:
+      213: 7763393570073292686
+    second: World2Back3
+  - first:
+      213: 3625828159874028849
+    second: World3Back6
+  - first:
+      213: -1403385001914444932
+    second: World4Back2
+  - first:
+      213: 4802795865894282456
+    second: World1Bac
+  - first:
+      213: -5069374800630236088
+    second: World5Back6
+  - first:
+      213: 4532078837277550433
+    second: World1Back4
+  - first:
+      213: -6349036829903397620
+    second: World2Back4
+  - first:
+      213: -391387132269273998
+    second: World3Back7
+  - first:
+      213: 9015567664602406207
+    second: World5Back2
+  - first:
+      213: 1784714720108330399
+    second: World6Back3
+  - first:
+      213: 4819231141575540730
+    second: World3Back8
+  - first:
+      213: 7610691257682140705
+    second: World4Back3
+  - first:
+      213: 6554507471556052716
+    second: World5Back7
+  - first:
+      213: 3055679465573224431
+    second: World1Back5
+  - first:
+      213: -3610142567838326366
+    second: World2Back5
+  - first:
+      213: 3215717857968971641
+    second: World1Back6
+  - first:
+      213: -8952138194278176651
+    second: World3Back9
+  - first:
+      213: -5538594457151079891
+    second: World4Back4
+  - first:
+      213: 3415288826985682911
+    second: World5Back3
+  - first:
+      213: -8674283702159883930
+    second: World5Back8
+  - first:
+      213: -7028661558302153493
+    second: World1Back7
+  - first:
+      213: -7785317051855525622
+    second: WeirdBack
+  - first:
+      213: 4302168521685732417
+    second: World3Back10
+  - first:
+      213: -4931163914773064282
+    second: SpecialBack
+  - first:
+      213: 3549134573355225665
+    second: World2Back6
+  - first:
+      213: -7739395192214474610
+    second: SpecialBack2
+  - first:
+      213: 7789981761395783758
+    second: SpecialBack3
+  - first:
+      213: 903954553724380847
+    second: World5Back9
+  - first:
+      213: -3763804719833640757
+    second: World6Back4
+  - first:
+      213: 6580150114567912260
+    second: CastleBack
+  - first:
+      213: -6122401482582821608
+    second: World2Back7
+  - first:
+      213: -6294175737269106425
+    second: TitleBack
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: World1Back
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1508
+        width: 514
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4426f64891a151fc0800000000000000
+      internalID: -3524882436449148348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World2Back1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1297
+        width: 514
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af54a7da72bfccc10800000000000000
+      internalID: 2075309676143724026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World3Back1
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1552
+        width: 514
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b754976f18d7ea470800000000000000
+      internalID: 8407795551486690683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World4Back1
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1159
+        width: 514
+        height: 513
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2636cc4363f7aed80800000000000000
+      internalID: -8220618299020647582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World5Back4
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1253
+        width: 514
+        height: 419
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7452c6219268e00800000000000000
+      internalID: 1046569122510751658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World6Back1
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 1283
+        width: 514
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9cac672000411b0800000000000000
+      internalID: -5686920418879157843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World3Back2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1445
+        width: 514
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7788dee2506924a10800000000000000
+      internalID: 1892239742455351415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World1Back2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1281
+        width: 514
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d0e615e285058e0800000000000000
+      internalID: -1706767302815511245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World2Back2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1154
+        width: 514
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd53ff4264b6feb0800000000000000
+      internalID: -4686360027891278370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World3Back3
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1339
+        width: 514
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f76765a656f9a40800000000000000
+      internalID: 5377127987495206800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World3Back4
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1232
+        width: 514
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0275e379551d8a0800000000000000
+      internalID: -6282145897130811170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World5Back1
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 834
+        width: 514
+        height: 837
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e0ef4ac685f0250800000000000000
+      internalID: 5913042059408576056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World1Back3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122
+        width: 514
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9743e63b4d78db0800000000000000
+      internalID: -4789625811572065809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World3Back5
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1127
+        width: 514
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfb883d8d8e6c260800000000000000
+      internalID: 7117632279065182151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World6Back2
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 851
+        width: 514
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e3e760c42a57890800000000000000
+      internalID: -7460878760259207611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World2Back3
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 848
+        width: 514
+        height: 308
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f25cbd15d1dbb60800000000000000
+      internalID: 7763393570073292686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World3Back6
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 959
+        width: 514
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13556ed3087815230800000000000000
+      internalID: 3625828159874028849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World4Back2
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 641
+        width: 514
+        height: 516
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7357c5b6cc268ce0800000000000000
+      internalID: -1403385001914444932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World1Bac
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 514
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4e75bc465f6a240800000000000000
+      internalID: 4802795865894282456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World5Back6
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 835
+        width: 514
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c3e1f3a76f5a9b0800000000000000
+      internalID: -5069374800630236088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World1Back4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 681
+        width: 514
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1676ef5c0bd25ee30800000000000000
+      internalID: 4532078837277550433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World2Back4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 554
+        width: 514
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d5cbf44a0b3e7a0800000000000000
+      internalID: -6349036829903397620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World3Back7
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 790
+        width: 514
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c5e631a73819af0800000000000000
+      internalID: -391387132269273998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World5Back2
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 416
+        width: 514
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ddf11460bbd1d70800000000000000
+      internalID: 9015567664602406207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World6Back3
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 339
+        width: 514
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9db775059494c810800000000000000
+      internalID: 1784714720108330399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World3Back8
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 542
+        width: 511
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff3c1c903951e240800000000000000
+      internalID: 4819231141575540730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World4Back3
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 451
+        width: 514
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e905d206b9e9960800000000000000
+      internalID: 7610691257682140705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World5Back7
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 457
+        width: 514
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce60ebf61d946fa50800000000000000
+      internalID: 6554507471556052716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World1Back5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 587
+        width: 515
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef82f4c844f76a20800000000000000
+      internalID: 3055679465573224431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World2Back5
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 297
+        width: 514
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1ea7f367236edc0800000000000000
+      internalID: -3610142567838326366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World1Back6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 514
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fde1eaa5680ac20800000000000000
+      internalID: 3215717857968971641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World3Back9
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 378
+        width: 509
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578a7d52ebd93c380800000000000000
+      internalID: -8952138194278176651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World4Back4
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 271
+        width: 514
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aff8a9fa5f223b0800000000000000
+      internalID: -5538594457151079891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World5Back3
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 225
+        width: 514
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd797d9d71b856f20800000000000000
+      internalID: 3415288826985682911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World5Back8
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 329
+        width: 514
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661ccc36ee0ce9780800000000000000
+      internalID: -8674283702159883930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World1Back7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229
+        width: 514
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4e4fa5d8d257e90800000000000000
+      internalID: -7028661558302153493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeirdBack
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 229
+        width: 465
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a092c54c36ff4f390800000000000000
+      internalID: -7785317051855525622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World3Back10
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 194
+        width: 513
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c02f20a7f54bb30800000000000000
+      internalID: 4302168521685732417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBack
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 259
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a51ab2cb8cf09bb0800000000000000
+      internalID: -4931163914773064282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World2Back6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 4
+        width: 255
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14255e0271f014130800000000000000
+      internalID: 3549134573355225665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBack2
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 32
+        width: 242
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80b0b7e315289490800000000000000
+      internalID: -7739395192214474610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpecialBack3
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2
+        width: 259
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4874ce83239b1c60800000000000000
+      internalID: 7789981761395783758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World5Back9
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 134
+        width: 514
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6a6d390ed7b8c00800000000000000
+      internalID: 903954553724380847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World6Back4
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 118
+        width: 514
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0906e7c8744cbc0800000000000000
+      internalID: -3763804719833640757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastleBack
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 255
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bf0938aa3615b50800000000000000
+      internalID: 6580150114567912260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World2Back7
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3
+        width: 255
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815735a1a4cd80ba0800000000000000
+      internalID: -6122401482582821608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleBack
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 32
+        width: 239
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7094132d38896a8a0800000000000000
+      internalID: -6294175737269106425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CastleBack: 6580150114567912260
+      SpecialBack: -4931163914773064282
+      SpecialBack2: -7739395192214474610
+      SpecialBack3: 7789981761395783758
+      TitleBack: -6294175737269106425
+      WeirdBack: -7785317051855525622
+      World1Bac: 4802795865894282456
+      World1Back: -3524882436449148348
+      World1Back2: -1706767302815511245
+      World1Back3: -4789625811572065809
+      World1Back4: 4532078837277550433
+      World1Back5: 3055679465573224431
+      World1Back6: 3215717857968971641
+      World1Back7: -7028661558302153493
+      World2Back1: 2075309676143724026
+      World2Back2: -4686360027891278370
+      World2Back3: 7763393570073292686
+      World2Back4: -6349036829903397620
+      World2Back5: -3610142567838326366
+      World2Back6: 3549134573355225665
+      World2Back7: -6122401482582821608
+      World3Back1: 8407795551486690683
+      World3Back10: 4302168521685732417
+      World3Back2: 1892239742455351415
+      World3Back3: 5377127987495206800
+      World3Back4: -6282145897130811170
+      World3Back5: 7117632279065182151
+      World3Back6: 3625828159874028849
+      World3Back7: -391387132269273998
+      World3Back8: 4819231141575540730
+      World3Back9: -8952138194278176651
+      World4Back1: -8220618299020647582
+      World4Back2: -1403385001914444932
+      World4Back3: 7610691257682140705
+      World4Back4: -5538594457151079891
+      World5Back1: 5913042059408576056
+      World5Back2: 9015567664602406207
+      World5Back3: 3415288826985682911
+      World5Back4: 1046569122510751658
+      World5Back6: -5069374800630236088
+      World5Back7: 6554507471556052716
+      World5Back8: -8674283702159883930
+      World5Back9: 903954553724380847
+      World6Back1: -5686920418879157843
+      World6Back2: -7460878760259207611
+      World6Back3: 1784714720108330399
+      World6Back4: -3763804719833640757
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

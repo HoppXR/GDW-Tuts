@@ -1,0 +1,2983 @@
+fileFormatVersion: 2
+guid: 9174dc7ac412009479102f8850c5dde6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2795872786676552557
+    second: LetA
+  - first:
+      213: 7879975297159705140
+    second: LetB
+  - first:
+      213: 4368084408980569781
+    second: LetC
+  - first:
+      213: -8853575025336639836
+    second: LetD
+  - first:
+      213: 2051160444467243043
+    second: LetE
+  - first:
+      213: -8358269731341809767
+    second: LetF
+  - first:
+      213: 2698030623058070708
+    second: LetG
+  - first:
+      213: 8116522931771043785
+    second: LetH
+  - first:
+      213: 3159406795003757988
+    second: LetI
+  - first:
+      213: -7901245662325788713
+    second: LetJ
+  - first:
+      213: -6982921693226611423
+    second: Num1Big
+  - first:
+      213: -571290875874971278
+    second: Num2Big
+  - first:
+      213: 4326297765708247857
+    second: Num3Big
+  - first:
+      213: 8103429106410145114
+    second: Num5Big
+  - first:
+      213: 4969898245647682293
+    second: Num7Big
+  - first:
+      213: -1422200088182024445
+    second: Num10Big
+  - first:
+      213: 6124765029338944263
+    second: LetUBig
+  - first:
+      213: 7872282904985238778
+    second: LetPBig
+  - first:
+      213: -6935420576102695921
+    second: LetK
+  - first:
+      213: 7602528968475889481
+    second: LetL
+  - first:
+      213: 6918361264559050905
+    second: LetM
+  - first:
+      213: 7636827872252455294
+    second: LetO
+  - first:
+      213: -7352416286964828536
+    second: LetP
+  - first:
+      213: -6274508480360907008
+    second: LetQ
+  - first:
+      213: 7523254123652741062
+    second: LetS
+  - first:
+      213: 988934444427749121
+    second: LetT
+  - first:
+      213: 3193899222362902676
+    second: Num0Red
+  - first:
+      213: -3212020605309547382
+    second: Num1Red
+  - first:
+      213: 5260562590653020817
+    second: Num2Red
+  - first:
+      213: -8785248123417887690
+    second: Num3Red
+  - first:
+      213: 4913126522603208415
+    second: Num4Red
+  - first:
+      213: 1055609969811694467
+    second: MarioSpriteText_31
+  - first:
+      213: -4805678727839858803
+    second: MarioSpriteText_32
+  - first:
+      213: -3430346107315338997
+    second: 1UPRed
+  - first:
+      213: -594323169019821268
+    second: LetU
+  - first:
+      213: 800076023868864840
+    second: LetV
+  - first:
+      213: 3066013634279032438
+    second: LetW
+  - first:
+      213: -8201946422328834832
+    second: LetX
+  - first:
+      213: -5765972425741649788
+    second: LetZ
+  - first:
+      213: -8542236813617714458
+    second: SymbolApos
+  - first:
+      213: -3182466948160108357
+    second: Num3
+  - first:
+      213: 255504904148612290
+    second: SymExclaimation
+  - first:
+      213: 3597056035053607580
+    second: WorldUI
+  - first:
+      213: -1664845487388411962
+    second: Num1
+  - first:
+      213: -3791882438171442077
+    second: Num2
+  - first:
+      213: -175913573200872589
+    second: Num
+  - first:
+      213: 1881052324858030931
+    second: Num5Red
+  - first:
+      213: -5939802641963768416
+    second: Num6Red
+  - first:
+      213: -1742475976626040158
+    second: Num7Red
+  - first:
+      213: -2162367331065392810
+    second: Num8Red
+  - first:
+      213: -7296671540708922416
+    second: Num9Red
+  - first:
+      213: 8705657548543374203
+    second: Heart
+  - first:
+      213: -3978034456342081423
+    second: Num4
+  - first:
+      213: 6915565062183369980
+    second: Num5
+  - first:
+      213: 8349573849767866712
+    second: Num6
+  - first:
+      213: -8776402847022589511
+    second: Num7
+  - first:
+      213: 6454174728538185017
+    second: Num8
+  - first:
+      213: 6752958279147061272
+    second: LetAWhite
+  - first:
+      213: 210700336534261617
+    second: LetBWhite
+  - first:
+      213: 416048692123646958
+    second: LetCWhite
+  - first:
+      213: 7181068983021258795
+    second: LetDWhite
+  - first:
+      213: 6056967366906339736
+    second: LetEWhite
+  - first:
+      213: -5155764543755935509
+    second: LetFWhite
+  - first:
+      213: -6369063066685358223
+    second: LetGWhite
+  - first:
+      213: 7327435726399030775
+    second: LetHWhite
+  - first:
+      213: 6982405559060329526
+    second: LetIWhite
+  - first:
+      213: 3925533192959211087
+    second: Score100
+  - first:
+      213: 4395631493845252073
+    second: Score1000
+  - first:
+      213: 3467780784456963953
+    second: Num0White
+  - first:
+      213: -9194880531757237192
+    second: Num1White
+  - first:
+      213: 384958208238649115
+    second: Num2White
+  - first:
+      213: 9175199829625578282
+    second: Num3White
+  - first:
+      213: -8081855955759289807
+    second: Num4White
+  - first:
+      213: -1625200725271197752
+    second: LetJWhite
+  - first:
+      213: -1756553230449305836
+    second: LetKWhite
+  - first:
+      213: -5552952409573983955
+    second: LetLWhite
+  - first:
+      213: 41842701078622016
+    second: LetMWhite
+  - first:
+      213: -6234820375814726194
+    second: LetNWhite
+  - first:
+      213: -4958541044324239525
+    second: LetOWhite
+  - first:
+      213: -7643672070039405005
+    second: LetPWhite
+  - first:
+      213: 7682598506124142098
+    second: LetQWhite
+  - first:
+      213: -1727671546806036256
+    second: LetRWhite
+  - first:
+      213: -7698523803217024940
+    second: Score200
+  - first:
+      213: 4370706629476009970
+    second: Score2000
+  - first:
+      213: -2687232763387694208
+    second: Num5White
+  - first:
+      213: -6448125730586887602
+    second: Num6White
+  - first:
+      213: 2179744294201161178
+    second: Num7White
+  - first:
+      213: -6583206771456868583
+    second: Num8White
+  - first:
+      213: 8090510666618829897
+    second: Num9White
+  - first:
+      213: -4205100074230148294
+    second: LetSWhite
+  - first:
+      213: 4075178727340683310
+    second: LetTWhite
+  - first:
+      213: -615729052552216102
+    second: LetUWhite
+  - first:
+      213: -8234554238100354399
+    second: LetVWhite
+  - first:
+      213: 5954933692467806049
+    second: LetWWhite
+  - first:
+      213: 2507054444000136180
+    second: LetXWhite
+  - first:
+      213: -968511009363288102
+    second: LetYWhite
+  - first:
+      213: 9178198476356034166
+    second: LetZWhite
+  - first:
+      213: 5008618591525921082
+    second: Num0WhiteSmall
+  - first:
+      213: -9024177497069973811
+    second: Score400
+  - first:
+      213: -467394908562504440
+    second: Score4000
+  - first:
+      213: -1101112517093155921
+    second: Num1WhiteSmall
+  - first:
+      213: 824735759888566217
+    second: Num2WhiteSmall
+  - first:
+      213: -4259559644102607191
+    second: Num3WhiteSmall
+  - first:
+      213: -2988727125795060549
+    second: Num4WhiteSmall
+  - first:
+      213: 3537284358790449686
+    second: Num5WhiteSmall
+  - first:
+      213: 9181770545084868319
+    second: Num6WhiteSmall
+  - first:
+      213: -7139727057488395575
+    second: Num7WhiteSmall
+  - first:
+      213: 8837156389444919832
+    second: Num8WhiteSmall
+  - first:
+      213: 8989920343682186267
+    second: Num9WhiteSmall
+  - first:
+      213: 1724280772517081240
+    second: Score800
+  - first:
+      213: -757335373844747147
+    second: Score8000
+  - first:
+      213: -7072598935849585497
+    second: MarioSpriteText_111
+  - first:
+      213: -9152679088120693228
+    second: MarioSpriteText_113
+  - first:
+      213: -2737582483745832680
+    second: LetN
+  - first:
+      213: 2249143159521903001
+    second: LetY
+  - first:
+      213: -3939938647164016470
+    second: LetR
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LetA
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 129
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63990f7c7fecc620800000000000000
+      internalID: 2795872786676552557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetB
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 129
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432be0a68cb4b5d60800000000000000
+      internalID: 7879975297159705140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetC
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 129
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be753a70ad8e9c30800000000000000
+      internalID: 4368084408980569781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetD
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 129
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae1a863c68c12580800000000000000
+      internalID: -8853575025336639836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetE
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 129
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3286dc58e8f277c10800000000000000
+      internalID: 2051160444467243043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetF
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 129
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997c87e96f5710c80800000000000000
+      internalID: -8358269731341809767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetG
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 129
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc80809e84517520800000000000000
+      internalID: 2698030623058070708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetH
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 129
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf668f6a9ea3a070800000000000000
+      internalID: 8116522931771043785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetI
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 129
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a58725adb778db20800000000000000
+      internalID: 3159406795003757988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetJ
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 129
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfa9f5cee2295290800000000000000
+      internalID: -7901245662325788713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num1Big
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 131
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dcbd497bda71f90800000000000000
+      internalID: -6982921693226611423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num2Big
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 131
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271fc08a9fd5218f0800000000000000
+      internalID: -571290875874971278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num3Big
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 131
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1333b9d65e81a0c30800000000000000
+      internalID: 4326297765708247857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num5Big
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 131
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a554326a6d9257070800000000000000
+      internalID: 8103429106410145114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num7Big
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 131
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5facaad6f10a8f440800000000000000
+      internalID: 4969898245647682293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num10Big
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 131
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30791601e84534ce0800000000000000
+      internalID: -1422200088182024445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetUBig
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 131
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7039b7208598ff450800000000000000
+      internalID: 6124765029338944263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetPBig
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 131
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc760bc797ff3d60800000000000000
+      internalID: 7872282904985238778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetK
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 116
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cb6714bbf60cf90800000000000000
+      internalID: -6935420576102695921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetL
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 116
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f4f9021db918960800000000000000
+      internalID: 7602528968475889481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetM
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 116
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9905dd14ae4f20060800000000000000
+      internalID: 6918361264559050905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetO
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 116
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79e868fc767bf960800000000000000
+      internalID: 7636827872252455294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetP
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 116
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8863aae7758f6f990800000000000000
+      internalID: -7352416286964828536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetQ
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 116
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f79e7e7c77ce8a0800000000000000
+      internalID: -6274508480360907008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetS
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 116
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7705bf3c7f76860800000000000000
+      internalID: 7523254123652741062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetT
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 116
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107a34a33a669bd00800000000000000
+      internalID: 988934444427749121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num0Red
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 110
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4905655bb62035c20800000000000000
+      internalID: 3193899222362902676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num1Red
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 110
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c0a49074c9c63d0800000000000000
+      internalID: -3212020605309547382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num2Red
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 110
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19af496fdc5410940800000000000000
+      internalID: 5260562590653020817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num3Red
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 110
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c7204c067841680800000000000000
+      internalID: -8785248123417887690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num4Red
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 110
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde705c9a8eee2440800000000000000
+      internalID: 4913126522603208415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1UPRed
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 110
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0143d0e366f460d0800000000000000
+      internalID: -3430346107315338997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetU
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 103
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c230ac40a3a80c7f0800000000000000
+      internalID: -594323169019821268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetV
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 103
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849b20c97e07a1b00800000000000000
+      internalID: 800076023868864840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetW
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 103
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676c4bbe72bac8a20800000000000000
+      internalID: 3066013634279032438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetX
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 103
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4cd464f25dc2e80800000000000000
+      internalID: -8201946422328834832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetZ
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 103
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b8f2d0a62bffa0800000000000000
+      internalID: -5765972425741649788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SymbolApos
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 108
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea2d0170e0e37980800000000000000
+      internalID: -8542236813617714458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 103
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8ce7d0c2b95d3d0800000000000000
+      internalID: -3182466948160108357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SymExclaimation
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 103
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4f52a4b5cbb8300800000000000000
+      internalID: 255504904148612290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorldUI
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 92
+        width: 43
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a9b86e76f4be130800000000000000
+      internalID: 3597056035053607580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 92
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c73d4699d745e8e0800000000000000
+      internalID: -1664845487388411962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 92
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364cfb24307806bc0800000000000000
+      internalID: -3791882438171442077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 92
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b313689870f8df0800000000000000
+      internalID: -175913573200872589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num5Red
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35be51b8f17da1a10800000000000000
+      internalID: 1881052324858030931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num6Red
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 95
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5a2d1b7f4919da0800000000000000
+      internalID: -5939802641963768416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num7Red
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 95
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a29d8fc45b71d7e0800000000000000
+      internalID: -1742475976626040158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num8Red
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 95
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65110fd7e5abdf1e0800000000000000
+      internalID: -2162367331065392810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num9Red
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 95
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dba755a4e30dba90800000000000000
+      internalID: -7296671540708922416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heart
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7330257a65b0d870800000000000000
+      internalID: 8705657548543374203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 80
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170577d0dbe2bc8c0800000000000000
+      internalID: -3978034456342081423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcba88a8c509ff50800000000000000
+      internalID: 6915565062183369980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num6
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 80
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851fd4dad25afd370800000000000000
+      internalID: 8349573849767866712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 80
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9dd792c14f33680800000000000000
+      internalID: -8776402847022589511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 80
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d52dc48b5d19950800000000000000
+      internalID: 6454174728538185017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetAWhite
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8100893b6c357bd50800000000000000
+      internalID: 6752958279147061272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetBWhite
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f0e29f6de8ce200800000000000000
+      internalID: 210700336534261617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetCWhite
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebbb47c41a16c500800000000000000
+      internalID: 416048692123646958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetDWhite
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28ce80713848a360800000000000000
+      internalID: 7181068983021258795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetEWhite
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891e590aabbae0450800000000000000
+      internalID: 6056967366906339736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetFWhite
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0afdfb67b0378b0800000000000000
+      internalID: -5155764543755935509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetGWhite
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fb826b2ea8c97a0800000000000000
+      internalID: -6369063066685358223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetHWhite
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5458288f740b560800000000000000
+      internalID: 7327435726399030775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetIWhite
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 74
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634f0819cdc76e060800000000000000
+      internalID: 6982405559060329526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46b65004ab4a7630800000000000000
+      internalID: 3925533192959211087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score1000
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e77a2afd8b600d30800000000000000
+      internalID: 4395631493845252073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num0White
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 58
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1779b781048002030800000000000000
+      internalID: 3467780784456963953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num1White
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 58
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c74787fd8356080800000000000000
+      internalID: -9194880531757237192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num2White
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 58
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f7f676375a75500800000000000000
+      internalID: 384958208238649115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num3White
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 58
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23ae0cf1abd45f70800000000000000
+      internalID: 9175199829625578282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num4White
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 58
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13aa717e3da77df80800000000000000
+      internalID: -8081855955759289807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetJWhite
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7c0811d802279e0800000000000000
+      internalID: -1625200725271197752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetKWhite
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417110eb4287f97e0800000000000000
+      internalID: -1756553230449305836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetLWhite
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2971bc4433ffe2b0800000000000000
+      internalID: -5552952409573983955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetMWhite
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04feb3607b7a49000800000000000000
+      internalID: 41842701078622016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetNWhite
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd1235d6e77979a0800000000000000
+      internalID: -6234820375814726194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetOWhite
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57fbd01139bf2bb0800000000000000
+      internalID: -4958541044324239525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetPWhite
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ef9bd00c83ce590800000000000000
+      internalID: -7643672070039405005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetQWhite
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216e97d13a21e9a60800000000000000
+      internalID: 7682598506124142098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetRWhite
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 65
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8931cb1e31608e0800000000000000
+      internalID: -1727671546806036256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score200
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 56
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4582c56b369592590800000000000000
+      internalID: -7698523803217024940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score2000
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 56
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7cc53c58ed7ac30800000000000000
+      internalID: 4370706629476009970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num5White
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 44
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0833c7d0a0805bad0800000000000000
+      internalID: -2687232763387694208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num6White
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 44
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aff49cfc7a386a0800000000000000
+      internalID: -6448125730586887602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num7White
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 44
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad57b0503e1004e10800000000000000
+      internalID: 2179744294201161178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num8White
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 44
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ffd581250c3a4a0800000000000000
+      internalID: -6583206771456868583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num9White
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 44
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cf25ff594474070800000000000000
+      internalID: 8090510666618829897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetSWhite
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a331b8613cb74a5c0800000000000000
+      internalID: -4205100074230148294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetTWhite
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20be571671fd8830800000000000000
+      internalID: 4075178727340683310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetUWhite
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1ccb060bd7477f0800000000000000
+      internalID: -615729052552216102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetVWhite
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa475a8c8cf8bd80800000000000000
+      internalID: -8234554238100354399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetWWhite
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f7c8884ac24a250800000000000000
+      internalID: 5954933692467806049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetXWhite
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb413fdbb8dac220800000000000000
+      internalID: 2507054444000136180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetYWhite
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf98dd4e582f82f0800000000000000
+      internalID: -968511009363288102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetZWhite
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e9b35d2e28f5f70800000000000000
+      internalID: 9178198476356034166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num0WhiteSmall
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 56
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31e15b7210328540800000000000000
+      internalID: 5008618591525921082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score400
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 47
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce0219e06ea3c280800000000000000
+      internalID: -9024177497069973811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score4000
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 47
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8054e499eca7389f0800000000000000
+      internalID: -467394908562504440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num1WhiteSmall
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab1de8efff08b0f0800000000000000
+      internalID: -1101112517093155921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num2WhiteSmall
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c748b1ddcc027b00800000000000000
+      internalID: 824735759888566217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num3WhiteSmall
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aebca1621103e4c0800000000000000
+      internalID: -4259559644102607191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num4WhiteSmall
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb449689388e586d0800000000000000
+      internalID: -2988727125795060549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num5WhiteSmall
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a004b0265f61130800000000000000
+      internalID: 3537284358790449686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num6WhiteSmall
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6ade4e9a33c6f70800000000000000
+      internalID: 9181770545084868319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num7WhiteSmall
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2c821b1189aec90800000000000000
+      internalID: -7139727057488395575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num8WhiteSmall
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81220793ae2e3aa70800000000000000
+      internalID: 8837156389444919832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Num9WhiteSmall
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 48
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cfb340cec92cc70800000000000000
+      internalID: 8989920343682186267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score800
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 38
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890baea1a30ede710800000000000000
+      internalID: 1724280772517081240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score8000
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 38
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c65227d776d75f0800000000000000
+      internalID: -757335373844747147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpriteText_111
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 13
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a431e57db419dd90800000000000000
+      internalID: -7072598935849585497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MarioSpriteText_113
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 16
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e7b61ccd62bf080800000000000000
+      internalID: -9152679088120693228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetN
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 116
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8118ff04c37220ad0800000000000000
+      internalID: -2737582483745832680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetY
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 103
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9918d4089cf863f10800000000000000
+      internalID: 2249143159521903001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetR
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 116
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8a4f2dca68259c0800000000000000
+      internalID: -3939938647164016470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1UPRed: -3430346107315338997
+      Heart: 8705657548543374203
+      LetA: 2795872786676552557
+      LetAWhite: 6752958279147061272
+      LetB: 7879975297159705140
+      LetBWhite: 210700336534261617
+      LetC: 4368084408980569781
+      LetCWhite: 416048692123646958
+      LetD: -8853575025336639836
+      LetDWhite: 7181068983021258795
+      LetE: 2051160444467243043
+      LetEWhite: 6056967366906339736
+      LetF: -8358269731341809767
+      LetFWhite: -5155764543755935509
+      LetG: 2698030623058070708
+      LetGWhite: -6369063066685358223
+      LetH: 8116522931771043785
+      LetHWhite: 7327435726399030775
+      LetI: 3159406795003757988
+      LetIWhite: 6982405559060329526
+      LetJ: -7901245662325788713
+      LetJWhite: -1625200725271197752
+      LetK: -6935420576102695921
+      LetKWhite: -1756553230449305836
+      LetL: 7602528968475889481
+      LetLWhite: -5552952409573983955
+      LetM: 6918361264559050905
+      LetMWhite: 41842701078622016
+      LetN: -2737582483745832680
+      LetNWhite: -6234820375814726194
+      LetO: 7636827872252455294
+      LetOWhite: -4958541044324239525
+      LetP: -7352416286964828536
+      LetPBig: 7872282904985238778
+      LetPWhite: -7643672070039405005
+      LetQ: -6274508480360907008
+      LetQWhite: 7682598506124142098
+      LetR: -3939938647164016470
+      LetRWhite: -1727671546806036256
+      LetS: 7523254123652741062
+      LetSWhite: -4205100074230148294
+      LetT: 988934444427749121
+      LetTWhite: 4075178727340683310
+      LetU: -594323169019821268
+      LetUBig: 6124765029338944263
+      LetUWhite: -615729052552216102
+      LetV: 800076023868864840
+      LetVWhite: -8234554238100354399
+      LetW: 3066013634279032438
+      LetWWhite: 5954933692467806049
+      LetX: -8201946422328834832
+      LetXWhite: 2507054444000136180
+      LetY: 2249143159521903001
+      LetYWhite: -968511009363288102
+      LetZ: -5765972425741649788
+      LetZWhite: 9178198476356034166
+      MarioSpriteText_111: -7072598935849585497
+      MarioSpriteText_113: -9152679088120693228
+      Num: -175913573200872589
+      Num0Red: 3193899222362902676
+      Num0White: 3467780784456963953
+      Num0WhiteSmall: 5008618591525921082
+      Num1: -1664845487388411962
+      Num10Big: -1422200088182024445
+      Num1Big: -6982921693226611423
+      Num1Red: -3212020605309547382
+      Num1White: -9194880531757237192
+      Num1WhiteSmall: -1101112517093155921
+      Num2: -3791882438171442077
+      Num2Big: -571290875874971278
+      Num2Red: 5260562590653020817
+      Num2White: 384958208238649115
+      Num2WhiteSmall: 824735759888566217
+      Num3: -3182466948160108357
+      Num3Big: 4326297765708247857
+      Num3Red: -8785248123417887690
+      Num3White: 9175199829625578282
+      Num3WhiteSmall: -4259559644102607191
+      Num4: -3978034456342081423
+      Num4Red: 4913126522603208415
+      Num4White: -8081855955759289807
+      Num4WhiteSmall: -2988727125795060549
+      Num5: 6915565062183369980
+      Num5Big: 8103429106410145114
+      Num5Red: 1881052324858030931
+      Num5White: -2687232763387694208
+      Num5WhiteSmall: 3537284358790449686
+      Num6: 8349573849767866712
+      Num6Red: -5939802641963768416
+      Num6White: -6448125730586887602
+      Num6WhiteSmall: 9181770545084868319
+      Num7: -8776402847022589511
+      Num7Big: 4969898245647682293
+      Num7Red: -1742475976626040158
+      Num7White: 2179744294201161178
+      Num7WhiteSmall: -7139727057488395575
+      Num8: 6454174728538185017
+      Num8Red: -2162367331065392810
+      Num8White: -6583206771456868583
+      Num8WhiteSmall: 8837156389444919832
+      Num9Red: -7296671540708922416
+      Num9White: 8090510666618829897
+      Num9WhiteSmall: 8989920343682186267
+      Score100: 3925533192959211087
+      Score1000: 4395631493845252073
+      Score200: -7698523803217024940
+      Score2000: 4370706629476009970
+      Score400: -9024177497069973811
+      Score4000: -467394908562504440
+      Score800: 1724280772517081240
+      Score8000: -757335373844747147
+      SymExclaimation: 255504904148612290
+      SymbolApos: -8542236813617714458
+      WorldUI: 3597056035053607580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

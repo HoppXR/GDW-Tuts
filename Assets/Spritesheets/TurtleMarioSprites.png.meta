@@ -1,0 +1,1227 @@
+fileFormatVersion: 2
+guid: 5c5fa7cd3c2ab07459730ff5f2fdba27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7212895497141978851
+    second: TurtleMarioSprites_0
+  - first:
+      213: -8367913705562175916
+    second: TurtleMarioSprites_1
+  - first:
+      213: -1964011049928684258
+    second: TurtleMarioSprites_2
+  - first:
+      213: 2783397795271542264
+    second: TurtleMarioSprites_3
+  - first:
+      213: -8828719975039551035
+    second: TurtleMarioSprites_4
+  - first:
+      213: -5906549225921636862
+    second: TurtleMarioSprites_5
+  - first:
+      213: -354669710975304964
+    second: TurtleMarioSprites_6
+  - first:
+      213: 6786357382001891660
+    second: TurtleMarioSprites_7
+  - first:
+      213: 1393559602851708358
+    second: TurtleMarioSprites_8
+  - first:
+      213: -2303695958086414616
+    second: TurtleMarioSprites_9
+  - first:
+      213: -6352352570153028769
+    second: TurtleMarioSprites_10
+  - first:
+      213: 6338199275700558344
+    second: TurtleMarioSprites_11
+  - first:
+      213: -4257545617348669424
+    second: TurtleMarioSprites_12
+  - first:
+      213: -7340072265608391599
+    second: TurtleMarioSprites_13
+  - first:
+      213: -1048447610331549830
+    second: TurtleMarioSprites_14
+  - first:
+      213: 4452627125320345041
+    second: TurtleMarioSprites_15
+  - first:
+      213: -6585131821453402561
+    second: TurtleMarioSprites_16
+  - first:
+      213: -4550853019736614748
+    second: TurtleMarioSprites_17
+  - first:
+      213: 9213398978459822299
+    second: TurtleMarioSprites_18
+  - first:
+      213: -6884300639877041509
+    second: TurtleMarioSprites_19
+  - first:
+      213: -8502372616160744941
+    second: TurtleMarioSprites_20
+  - first:
+      213: 7874060149368469923
+    second: TurtleMarioSprites_21
+  - first:
+      213: 5695474246930119493
+    second: TurtleMarioSprites_22
+  - first:
+      213: 4310994185651851889
+    second: TurtleMarioSprites_23
+  - first:
+      213: 8477520435667305487
+    second: TurtleMarioSprites_24
+  - first:
+      213: 9087221658436942569
+    second: TurtleMarioSprites_25
+  - first:
+      213: -3448232071385772751
+    second: TurtleMarioSprites_26
+  - first:
+      213: 565893229904548788
+    second: TurtleMarioSprites_27
+  - first:
+      213: -7968945587408084997
+    second: TurtleMarioSprites_28
+  - first:
+      213: -2307307764030512364
+    second: TurtleMarioSprites_29
+  - first:
+      213: 99380466499899082
+    second: TurtleMarioSprites_30
+  - first:
+      213: -423900551997741370
+    second: TurtleMarioSprites_31
+  - first:
+      213: 4270747922145438860
+    second: TurtleMarioSprites_32
+  - first:
+      213: -7080160164031859480
+    second: TurtleMarioSprites_33
+  - first:
+      213: 7850333829767348996
+    second: TurtleMarioSprites_34
+  - first:
+      213: 6509861159661798285
+    second: TurtleMarioSprites_35
+  - first:
+      213: -4841529036913173821
+    second: TurtleMarioSprites_36
+  - first:
+      213: 7624616433882433993
+    second: TurtleMarioSprites_37
+  - first:
+      213: 8238500588776827640
+    second: TurtleMarioSprites_38
+  - first:
+      213: -3042999834783504166
+    second: TurtleMarioSprites_39
+  - first:
+      213: 7235822698284318628
+    second: TurtleMarioSprites_40
+  - first:
+      213: 2783722611116481977
+    second: TurtleMarioSprites_41
+  - first:
+      213: 6166673757926569800
+    second: TurtleMarioSprites_42
+  - first:
+      213: -2481849257145948759
+    second: TurtleMarioSprites_43
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TurtleMarioSprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1976dac2c5a6eb90800000000000000
+      internalID: -7212895497141978851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 67
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45608d4e1d23fdb80800000000000000
+      internalID: -8367913705562175916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 67
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d0f0a1b5e6eb4e0800000000000000
+      internalID: -1964011049928684258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 67
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f504c73c8d90a620800000000000000
+      internalID: 2783397795271542264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 67
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c93f5295f51a7580800000000000000
+      internalID: -8828719975039551035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 68
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2061594f5c8b70ea0800000000000000
+      internalID: -5906549225921636862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 67
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaf9b8e6c5f31bf0800000000000000
+      internalID: -354669710975304964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 66
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c499211551cfd2e50800000000000000
+      internalID: 6786357382001891660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 66
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd7f4d431be65310800000000000000
+      internalID: 1393559602851708358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 67
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee81cb4bb0a700e0800000000000000
+      internalID: -2303695958086414616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 66
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f533dff5ef8e7d7a0800000000000000
+      internalID: -6352352570153028769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 67
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a15c7f8aec5f750800000000000000
+      internalID: 6338199275700558344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 67
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01059e681d82ae4c0800000000000000
+      internalID: -4257545617348669424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 67
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15417bee923d22a90800000000000000
+      internalID: -7340072265608391599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 67
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fa49c047a2371f0800000000000000
+      internalID: -1048447610331549830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5ecf987c8eacd30800000000000000
+      internalID: 4452627125320345041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e16277f79ec94a0800000000000000
+      internalID: -6585131821453402561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d59d3a4f18d0c0800000000000000
+      internalID: -4550853019736614748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 36
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd86b056e819cdf70800000000000000
+      internalID: 9213398978459822299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 37
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b927229ea0d0670a0800000000000000
+      internalID: -6884300639877041509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 41
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aeab13721810a80800000000000000
+      internalID: -8502372616160744941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 40
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9ba2fbcf7464d60800000000000000
+      internalID: 7874060149368469923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 42
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bb7a3d6a36a0f40800000000000000
+      internalID: 5695474246930119493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 41
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1729d880f5ab3db30800000000000000
+      internalID: 4310994185651851889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f048010abe336a570800000000000000
+      internalID: 8477520435667305487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eabe52c3fb4c1e70800000000000000
+      internalID: 9087221658436942569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 37
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d01f9533b6520d0800000000000000
+      internalID: -3448232071385772751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b35245f4e47ad700800000000000000
+      internalID: 565893229904548788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 36
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffdf14a53e986190800000000000000
+      internalID: -7968945587408084997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_29
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413e57130dbcaffd0800000000000000
+      internalID: -2307307764030512364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acec65bf102116100800000000000000
+      internalID: 99380466499899082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c62512a1b00e1af0800000000000000
+      internalID: -423900551997741370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_32
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 5
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c67b89b9eb44b30800000000000000
+      internalID: 4270747922145438860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 5
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e47206d7d73ebd90800000000000000
+      internalID: -7080160164031859480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403c38b760df1fc60800000000000000
+      internalID: 7850333829767348996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8301c6eb3ca75a50800000000000000
+      internalID: 6509861159661798285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_36
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 6
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca1d011efe6fccb0800000000000000
+      internalID: -4841529036913173821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 5
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c90b2aef3410d960800000000000000
+      internalID: 7624616433882433993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 4
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faa3e3d2a8055270800000000000000
+      internalID: 8238500588776827640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_39
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 4
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad82824d5c715c5d0800000000000000
+      internalID: -3042999834783504166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_40
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 4
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aff1f4386eca6460800000000000000
+      internalID: 7235822698284318628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_41
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd12dc47f4c1a620800000000000000
+      internalID: 2783722611116481977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847bfe24c1d649550800000000000000
+      internalID: 6166673757926569800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurtleMarioSprites_43
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 3
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5afb10043be8dd0800000000000000
+      internalID: -2481849257145948759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TurtleMarioSprites_0: -7212895497141978851
+      TurtleMarioSprites_1: -8367913705562175916
+      TurtleMarioSprites_10: -6352352570153028769
+      TurtleMarioSprites_11: 6338199275700558344
+      TurtleMarioSprites_12: -4257545617348669424
+      TurtleMarioSprites_13: -7340072265608391599
+      TurtleMarioSprites_14: -1048447610331549830
+      TurtleMarioSprites_15: 4452627125320345041
+      TurtleMarioSprites_16: -6585131821453402561
+      TurtleMarioSprites_17: -4550853019736614748
+      TurtleMarioSprites_18: 9213398978459822299
+      TurtleMarioSprites_19: -6884300639877041509
+      TurtleMarioSprites_2: -1964011049928684258
+      TurtleMarioSprites_20: -8502372616160744941
+      TurtleMarioSprites_21: 7874060149368469923
+      TurtleMarioSprites_22: 5695474246930119493
+      TurtleMarioSprites_23: 4310994185651851889
+      TurtleMarioSprites_24: 8477520435667305487
+      TurtleMarioSprites_25: 9087221658436942569
+      TurtleMarioSprites_26: -3448232071385772751
+      TurtleMarioSprites_27: 565893229904548788
+      TurtleMarioSprites_28: -7968945587408084997
+      TurtleMarioSprites_29: -2307307764030512364
+      TurtleMarioSprites_3: 2783397795271542264
+      TurtleMarioSprites_30: 99380466499899082
+      TurtleMarioSprites_31: -423900551997741370
+      TurtleMarioSprites_32: 4270747922145438860
+      TurtleMarioSprites_33: -7080160164031859480
+      TurtleMarioSprites_34: 7850333829767348996
+      TurtleMarioSprites_35: 6509861159661798285
+      TurtleMarioSprites_36: -4841529036913173821
+      TurtleMarioSprites_37: 7624616433882433993
+      TurtleMarioSprites_38: 8238500588776827640
+      TurtleMarioSprites_39: -3042999834783504166
+      TurtleMarioSprites_4: -8828719975039551035
+      TurtleMarioSprites_40: 7235822698284318628
+      TurtleMarioSprites_41: 2783722611116481977
+      TurtleMarioSprites_42: 6166673757926569800
+      TurtleMarioSprites_43: -2481849257145948759
+      TurtleMarioSprites_5: -5906549225921636862
+      TurtleMarioSprites_6: -354669710975304964
+      TurtleMarioSprites_7: 6786357382001891660
+      TurtleMarioSprites_8: 1393559602851708358
+      TurtleMarioSprites_9: -2303695958086414616
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
