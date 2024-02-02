@@ -16,6 +16,7 @@ public class MenuDefinition : MonoBehaviour
 
     private List<ButtonDefinition> _menuButtonDefinitions = new List<ButtonDefinition>();
     private List<Button> _menuButtons = new List<Button>();
+    private List<Animator> _menuAnimators = new List<Animator>();
 
     public void Start()
     {
@@ -24,6 +25,14 @@ public class MenuDefinition : MonoBehaviour
         {
             _menuButtonDefinitions.Add(_menuButtonObjects[i].GetComponent<ButtonDefinition>());
             _menuButtons.Add(_menuButtonObjects[i].GetComponent<Button>());
+            
+            //Grab out animator component if it exists
+            Animator temp = null;
+            _menuButtonObjects[i].TryGetComponent(out temp);
+            
+            //If there's no animator it'll be null
+            //We'll check for null when we use the animator
+            _menuAnimators.Add(temp);
         }
     }
 
@@ -45,5 +54,10 @@ public class MenuDefinition : MonoBehaviour
     public List<Button> GetButtons()
     {
         return _menuButtons;
+    }
+
+    public List<Animator> GetAnimators()
+    {
+        return _menuAnimators;
     }
 }

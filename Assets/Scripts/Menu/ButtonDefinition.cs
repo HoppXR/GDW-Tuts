@@ -6,11 +6,13 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Button))]
 public class ButtonDefinition : MonoBehaviour
 {
+    public bool _animated = false;
     public Color _unselectedTint = Color.grey;
     public Color _selectedTint = Color.white;
     public bool _selected = false;
     private Button _button;
     private Image _image;
+    private Animator _animator;
 
     private bool _disableControls = false;
     
@@ -18,14 +20,20 @@ public class ButtonDefinition : MonoBehaviour
     {
         _button = GetComponent<Button>();
         _image = GetComponent<Image>();
+        
+        //Is this item animated
+        _animated = TryGetComponent<Animator>(out _animator);
 
-        if (_selected)
+        if (!_animated)
         {
-            _image.color = _selectedTint;
-        }
-        else
-        {
-            _image.color = _unselectedTint;
+            if (_selected)
+            {
+                _image.color = _selectedTint;
+            }
+            else
+            {
+                _image.color = _unselectedTint;
+            }
         }
     }
 
@@ -33,14 +41,32 @@ public class ButtonDefinition : MonoBehaviour
     {
         _selected = true;
 
-        _image.color = _selectedTint;
+        //If there's an animator, update the selected bool to true
+        if (_animated)
+        {
+            _animator.SetBool("Selected", _selected);
+        }
+        //If there's no animator, tint the button to show selected
+        else
+        {
+            _image.color = _selectedTint;
+        }
     }
 
     public void SwappedOff()
     {
         _selected = false;
 
-        _image.color = _unselectedTint;
+        //If there's an animator, update the selected bool to false
+        if (_animated)
+        {
+            _animator.SetBool("Selected", _selected);
+        }
+        //If there's no animator, tint the button to show unselected
+        else
+        {
+            _image.color = _unselectedTint;
+        }
     }
 
     public void ClickButton()
