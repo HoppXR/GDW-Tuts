@@ -6,6 +6,8 @@ using UnityEngine;
 public class MenuController : MonoBehaviour
 {
     public GameObject _activeMenu;
+    public AudioSource _backgroundAudio;
+    
     public List<KeyCode> _increaseVert;
     public List<KeyCode> _decreaseVert;
     public List<KeyCode> _increaseHoriz;
@@ -83,13 +85,23 @@ public class MenuController : MonoBehaviour
     {
         if (!_activeMenuDefinition.GetButtonDefinitions() [_activeButton].GetDisableControls())
         {
-            _activeMenuDefinition.GetButtonDefinitions() [_activeButton].ClickButton();
+            StartCoroutine(_activeMenuDefinition.GetButtonDefinitions() [_activeButton].ClickButton());
         }
     }
 
     public void UpdateActiveMenuDefinition()
     {
         _activeMenuDefinition = _activeMenu.GetComponent<MenuDefinition>();
+
+        if (_activeMenuDefinition._menuMusic != null)
+        {
+            _backgroundAudio.clip = _activeMenuDefinition._menuMusic;
+            _backgroundAudio.Play();
+        }
+        else if (!_activeMenuDefinition._continuePrevMusic)
+        {
+            _backgroundAudio.Stop();
+        }
     }
 
     public void SetActiveMenu(GameObject activeMenu)
