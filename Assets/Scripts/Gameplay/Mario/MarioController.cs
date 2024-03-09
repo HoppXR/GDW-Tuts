@@ -84,6 +84,12 @@ public class MarioController : MonoBehaviour
         _isGrounded = false;
     }
 
+    void EnemyBounce()
+    {
+        _rb.AddForce(Vector2.up * jumpForce / 1.5f, ForceMode2D.Impulse);
+        _isGrounded = false;
+    }
+    
     private void OnCollisionEnter2D(Collision2D collision)
     {
         for (int i = 0; i < collision.contacts.Length; i++)
@@ -93,5 +99,80 @@ public class MarioController : MonoBehaviour
                 _isGrounded = true;
             }
         }
+        
+        if (collision.gameObject.tag == "Goomba")
+        {
+            if (collision.contacts[0].normal.y > 0.5)
+            {
+                EnemyBounce();
+                collision.gameObject.GetComponent<Goomba>().SetIsSquashed(true);
+            }
+            else
+            {
+                if (!collision.gameObject.GetComponent<Goomba>().GetIsSquashed())
+                {
+                    Debug.Log("I Died");
+                }
+            }
+        }
+
+        if (collision.gameObject.tag == "FlyingGoomba")
+        {
+            if (collision.contacts[0].normal.y > 0.5)
+            {
+                EnemyBounce();
+                collision.gameObject.GetComponent<FlyingGoomba>().SetIsSquashed(true);
+            }
+            else
+            {
+                if (!collision.gameObject.GetComponent<FlyingGoomba>().GetIsSquashed())
+                {
+                    Debug.Log("I Died");
+                }
+            }
+        }
+        
+        if (collision.gameObject.tag == "Koopa")
+        {
+            if (collision.contacts[0].normal.y > 0.5 && !collision.gameObject.GetComponent<Koopa>().GetIsKicked())
+            {
+                EnemyBounce();
+
+                collision.gameObject.GetComponent<Koopa>().SetIsSquashed(true);
+                collision.gameObject.GetComponent<Koopa>().SetIsMoving(false);
+
+                collision.gameObject.GetComponent<BoxCollider2D>().size = new Vector2(1, 1);
+            }
+            else if (collision.gameObject.GetComponent<Koopa>().GetIsSquashed() &&
+                     !collision.gameObject.GetComponent<Koopa>().GetIsKicked())
+            {
+                if (collision.gameObject.transform.position.x > _trans.position.x)
+                {
+                    collision.gameObject.GetComponent<Koopa>().ApplyKickForce(new Vector2(1, 0));
+                }
+                if (collision.gameObject.transform.position.x < _trans.position.x)
+                {
+                    collision.gameObject.GetComponent<Koopa>().ApplyKickForce(new Vector2(1, 0));
+                }
+            }
+            else if (collision.contacts[0].normal.y > 0.5 && collision.gameObject.GetComponent<Koopa>().GetIsKicked())
+            {
+                EnemyBounce();
+                collision.gameObject.GetComponent<Koopa>().SetIsKicked(false);
+                collision.gameObject.GetComponent<Koopa>().SetIsMoving(false);
+
+                collision.gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 
+                    collision.gameObject.GetComponent<Rigidbody2D>().velocity.y);
+            }
+            else
+            {
+                if (collision.gameObject.GetComponent<Koopa>().GetIsMoving())
+                {
+                    Debug.Log("Koopa killed me");
+                }
+            }
+        }
     }
+    
+    
 }
