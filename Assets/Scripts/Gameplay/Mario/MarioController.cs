@@ -9,6 +9,9 @@ public class MarioController : MonoBehaviour
     [SerializeField] private float jumpForce;
     [SerializeField] private float maxSpeed;
 
+    [SerializeField] private GameObject bigMarioPrefab;
+    [SerializeField] private GameObject smallMarioPrefab;
+
     private Transform _trans;
     private Rigidbody2D _rb;
 
@@ -16,6 +19,7 @@ public class MarioController : MonoBehaviour
     private bool _jumpInput;
 
     private bool _isGrounded;
+    private bool _isBig;
     
     private void Start()
     {
@@ -111,7 +115,15 @@ public class MarioController : MonoBehaviour
             {
                 if (!collision.gameObject.GetComponent<Goomba>().GetIsSquashed())
                 {
-                    Debug.Log("I Died");
+                    if (_isBig)
+                    {
+                        GetComponent<BoxCollider2D>().size = smallMarioPrefab.GetComponent<BoxCollider2D>().size;
+                        _isBig = false;
+                    }
+                    else
+                    {
+                        Debug.Log("I Died");
+                    }
                 }
             }
         }
@@ -127,7 +139,15 @@ public class MarioController : MonoBehaviour
             {
                 if (!collision.gameObject.GetComponent<FlyingGoomba>().GetIsSquashed())
                 {
-                    Debug.Log("I Died");
+                    if (_isBig)
+                    {
+                        GetComponent<BoxCollider2D>().size = smallMarioPrefab.GetComponent<BoxCollider2D>().size;
+                        _isBig = false;
+                    }
+                    else
+                    {
+                        Debug.Log("I Died");
+                    }
                 }
             }
         }
@@ -168,11 +188,47 @@ public class MarioController : MonoBehaviour
             {
                 if (collision.gameObject.GetComponent<Koopa>().GetIsMoving())
                 {
-                    Debug.Log("Koopa killed me");
+                    if (_isBig)
+                    {
+                        GetComponent<BoxCollider2D>().size = smallMarioPrefab.GetComponent<BoxCollider2D>().size;
+                        _isBig = false;
+                    }
+                    else
+                    {
+                        Debug.Log("I Died");
+                    }
                 }
             }
         }
+
+        if (collision.gameObject.name.Contains("Mushroom"))
+        {
+            if (!_isBig)
+            {
+                Destroy(collision.gameObject);
+
+                _isBig = true;
+
+                GetComponent<BoxCollider2D>().size = bigMarioPrefab.GetComponent<BoxCollider2D>().size;
+            }
+            else
+            {
+                Destroy(collision.gameObject);
+            }
+        }
+        
+        if (collision.gameObject.name.Contains("FireFlower"))
+        {
+            Destroy(collision.gameObject);
+
+            _isBig = true;
+
+            GetComponent<BoxCollider2D>().size = bigMarioPrefab.GetComponent<BoxCollider2D>().size;
+        }
+        else
+        {
+            Destroy(collision.gameObject);
+        }
     }
-    
-    
 }
+

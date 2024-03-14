@@ -10,6 +10,8 @@ TagManager:
   - Koopa
   - Ground
   - FlyingGoomba
+  - Coin
+  - Powerup
   layers:
   - Default
   - TransparentFX
