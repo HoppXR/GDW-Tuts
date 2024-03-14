@@ -219,16 +219,18 @@ public class MarioController : MonoBehaviour
         
         if (collision.gameObject.name.Contains("FireFlower"))
         {
-            Destroy(collision.gameObject);
+            if (!_isBig)
+            {
+                Destroy(collision.gameObject);
 
-            _isBig = true;
+                _isBig = true;
 
-            GetComponent<BoxCollider2D>().size = bigMarioPrefab.GetComponent<BoxCollider2D>().size;
-        }
-        else
-        {
-            Destroy(collision.gameObject);
+                GetComponent<BoxCollider2D>().size = bigMarioPrefab.GetComponent<BoxCollider2D>().size;
+            }
+            else
+            {
+                Destroy(collision.gameObject);
+            }
         }
     }
 }
-
