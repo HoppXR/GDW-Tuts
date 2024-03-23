@@ -1410,6 +1410,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2773988135098973384, guid: 4b860a5657d420745805c12c7bc4e901, type: 3}
+      propertyPath: m_Size.y
+      value: 1.0306427
+      objectReference: {fileID: 0}
+    - target: {fileID: 2773988135098973384, guid: 4b860a5657d420745805c12c7bc4e901, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.23467863
+      objectReference: {fileID: 0}
     - target: {fileID: 2994294920622191730, guid: 4b860a5657d420745805c12c7bc4e901, type: 3}
       propertyPath: m_Name
       value: FlyingGoomba
