@@ -7,12 +7,19 @@ using Random = UnityEngine.Random;
 
 public class LevelCompleteSquare : MonoBehaviour
 {
+    private Timer _timer;
+    
     [SerializeField] private List<Sprite> powerupList;
 
     private float _changeTimer = 0;
     private int _previousChoice = 5;
 
     private bool _itemCollected;
+
+    void Start()
+    {
+        _timer = FindObjectOfType<Timer>();
+    }
     
     void Update()
     {
@@ -44,11 +51,27 @@ public class LevelCompleteSquare : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        FindObjectOfType<LevelStatus>().SetLevelComplete(true);
-        
         FindObjectOfType<AudioManager>().Stop("Music");
         FindObjectOfType<AudioManager>().Play("LevelClear");
         
         _itemCollected = true;
+
+        StartCoroutine(LevelComplete());
+    }
+
+    IEnumerator LevelComplete()
+    {
+        if (_timer != null)
+        {
+            _timer.StopTimer();
+            int timeLeft = Mathf.RoundToInt(_timer.time);
+            int scoreToAdd = timeLeft * 100;
+            
+            FindObjectOfType<ScoreCounter>().AddScore(scoreToAdd);
+        }
+        
+        yield return new WaitForSeconds(3.252f);
+        
+        FindObjectOfType<LevelStatus>().SetLevelComplete(true);
     }
 }
